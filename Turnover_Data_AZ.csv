@@ -1,0 +1,1191 @@
+﻿ID,Ad Soyad,Cins,Doğum tarixi,İşə qəbul tarixi,Xitam tarixi,Status,Xitam növü,Xitam səbəbi,Departament,Vəzifə,Region,Region qrupu,Əmək haqqı (AZN)
+EMP0001,Sənan Mustafayev,Kişi,1996-12-29,2024-05-07,2025-10-01,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,700
+EMP0002,Eldar Kərimov,Kişi,1992-08-20,2021-01-30,2025-09-04,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,800
+EMP0003,Murad Abbasov,Kişi,1997-10-26,2021-04-02,,Aktiv,,,Satış,Satış Nümayəndəsi,Şəki,Digər regionlar,790
+EMP0004,Sevinc Nəbiyeva,Qadın,1987-01-09,2017-09-20,,Aktiv,,,İnsan Resursları,Rekruter,Gəncə,Digər regionlar,1040
+EMP0005,Elnur Rzayev,Kişi,1990-02-11,2023-07-14,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Gəncə,Digər regionlar,810
+EMP0006,Nigar Həsənova,Qadın,1999-02-19,2023-01-15,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,990
+EMP0007,Nübar Bayramova,Qadın,1990-05-02,2022-06-29,,Aktiv,,,İnsan Resursları,HR Meneceri,Bakı,Bakı,2480
+EMP0008,Sənan Səfərov,Kişi,1992-11-22,2024-06-15,2025-09-05,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Logistika,Logistika Koordinatoru,Bakı,Bakı,1020
+EMP0009,Məryəm Orucova,Qadın,1980-03-27,2020-01-18,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,770
+EMP0010,Emil Cəfərov,Kişi,1986-07-11,2018-03-12,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,1040
+EMP0011,Aytən Yusifova,Qadın,1991-10-05,2023-01-27,2025-11-24,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Şirvan,Digər regionlar,580
+EMP0012,Aytən Orucova,Qadın,2000-04-08,2023-12-25,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Gəncə,Digər regionlar,780
+EMP0013,Aynur Mustafayeva,Qadın,1993-03-16,2023-04-21,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0014,Vüqar Yusifov,Kişi,1999-09-11,2021-03-31,2025-12-26,Ayrılıb,Könüllü,Təhsilə davam,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,680
+EMP0015,Gülnar Səfərova,Qadın,1982-12-13,2023-07-08,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Bakı,Bakı,1440
+EMP0016,Zaur Orucov,Kişi,1982-11-09,2021-02-17,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,2130
+EMP0017,Ruslan Nəbiyev,Kişi,1994-06-15,2022-05-11,2025-03-09,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,840
+EMP0018,Xanım Yusifova,Qadın,1993-12-21,2023-11-12,2024-10-31,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Meneceri,Bakı,Bakı,1370
+EMP0019,Ruslan Mustafayev,Kişi,1995-11-11,2022-05-08,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1530
+EMP0020,Kənan Qasımov,Kişi,1997-07-11,2023-11-22,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,820
+EMP0021,Orxan Abbasov,Kişi,1980-05-13,2019-06-09,,Aktiv,,,Satış,Satış Nümayəndəsi,Qarabağ,Digər regionlar,980
+EMP0022,Emil Nəbiyev,Kişi,1988-01-30,2023-08-20,2026-04-21,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Marketinq,Marketinq Meneceri,Bakı,Bakı,2160
+EMP0023,Aytən Hüseynova,Qadın,1980-06-10,2024-05-18,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,1860
+EMP0024,Xanım Orucova,Qadın,1993-09-01,2023-05-13,2025-09-17,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Meneceri,Mingəçevir,Digər regionlar,1510
+EMP0025,Cavid Valiyev,Kişi,1994-08-22,2024-02-19,2026-01-20,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Anbardar,Sumqayıt,Abşeron-Sumqayıt,590
+EMP0026,Leyla Əhmədova,Qadın,1990-12-16,2022-05-08,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,690
+EMP0027,Röya Məmmədova,Qadın,1979-02-03,2024-03-06,2024-11-28,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,2070
+EMP0028,Aytən Valiyeva,Qadın,1993-08-29,2019-07-16,,Aktiv,,,Maliyyə,Mühasib,Gəncə,Digər regionlar,1320
+EMP0029,Aytən Məmmədova,Qadın,1987-04-03,2015-11-25,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1430
+EMP0030,Nərmin İsmayılova,Qadın,2002-09-02,2023-05-01,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,690
+EMP0031,Əli Nəbiyev,Kişi,1981-11-26,2016-12-30,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1380
+EMP0032,Aynur Quliyeva,Qadın,1998-06-15,2023-12-23,2025-10-02,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,820
+EMP0033,Eldar Əsgərov,Kişi,1990-12-09,2024-04-26,2026-08-07,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,840
+EMP0034,Röya Rzayeva,Qadın,1990-08-01,2023-03-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,640
+EMP0035,Murad Süleymanov,Kişi,1997-09-29,2021-04-22,2026-04-20,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0036,Emil Həsənov,Kişi,1996-01-21,2023-12-07,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1290
+EMP0037,Vüqar Cəfərov,Kişi,1996-09-17,2022-03-08,2026-01-09,Ayrılıb,Könüllü,Xaricə miqrasiya,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,790
+EMP0038,Nübar Abbasova,Qadın,1992-10-01,2021-05-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Şəki,Digər regionlar,900
+EMP0039,Əli Yusifov,Kişi,1999-01-07,2023-02-24,2024-10-04,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,820
+EMP0040,Emil Süleymanov,Kişi,1991-06-16,2018-05-03,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1550
+EMP0041,Elvin Əliyev,Kişi,1992-05-29,2021-07-16,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Mingəçevir,Digər regionlar,900
+EMP0042,Tural Babayev,Kişi,1987-10-04,2021-01-09,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1310
+EMP0043,Vüqar Bayramov,Kişi,1995-01-01,2015-03-20,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,750
+EMP0044,Əli Süleymanov,Kişi,1991-11-12,2016-07-15,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,2270
+EMP0045,Tural Nəbiyev,Kişi,1995-12-04,2023-07-02,2025-01-24,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2520
+EMP0046,Sevda Əliyeva,Qadın,1988-10-15,2021-03-25,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Lənkəran,Digər regionlar,1270
+EMP0047,Emil Yusifov,Kişi,1989-10-31,2020-04-02,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,820
+EMP0048,Fidan Mustafayeva,Qadın,1998-03-05,2023-03-26,2025-12-16,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,620
+EMP0049,Sevda Hüseynova,Qadın,1989-10-10,2024-03-23,2026-01-08,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Müştəri Xidmətləri,Operator,Bakı,Bakı,650
+EMP0050,Elnur Yusifov,Kişi,1995-09-14,2024-02-09,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Şəki,Digər regionlar,2140
+EMP0051,Təbriz Əhmədov,Kişi,1991-05-11,2022-12-19,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Bakı,Bakı,1480
+EMP0052,Eldar Kərimov,Kişi,2003-06-08,2024-03-13,2025-02-05,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2580
+EMP0053,Kamran Kərimov,Kişi,1991-02-27,2023-07-23,2025-08-21,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP0054,Arzu Valiyeva,Qadın,1981-11-05,2024-04-19,,Aktiv,,,Marketinq,Marketinq Meneceri,Quba,Digər regionlar,2180
+EMP0055,Elnur Yusifov,Kişi,1992-12-17,2021-12-26,,Aktiv,,,Müştəri Xidmətləri,Operator,Naxçıvan,Digər regionlar,710
+EMP0056,Röya Kərimova,Qadın,1995-05-21,2020-10-04,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1010
+EMP0057,Əfsanə Səfərova,Qadın,1986-09-09,2021-04-19,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Mingəçevir,Digər regionlar,1190
+EMP0058,Murad Yusifov,Kişi,1991-12-02,2021-05-20,2025-10-19,Ayrılıb,Könüllü,Xaricə miqrasiya,Satış,Satış Nümayəndəsi,Bakı,Bakı,680
+EMP0059,Cavid Süleymanov,Kişi,1988-06-07,2023-03-20,2025-08-31,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Meneceri,Bakı,Bakı,1590
+EMP0060,Təbriz Hüseynov,Kişi,1994-11-06,2023-06-17,2024-10-16,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Marketinq,Marketinq Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1000
+EMP0061,Rauf Abbasov,Kişi,1987-05-11,2020-09-23,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Abşeron,Abşeron-Sumqayıt,990
+EMP0062,Zaur Hacıyev,Kişi,1992-05-24,2017-08-16,,Aktiv,,,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,1150
+EMP0063,Elnur Əhmədov,Kişi,1994-12-21,2020-06-26,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,820
+EMP0064,Samir Hacıyev,Kişi,1984-10-06,2023-04-28,,Aktiv,,,İstehsalat,Texnik,Abşeron,Abşeron-Sumqayıt,920
+EMP0065,Arzu Rzayeva,Qadın,1979-09-18,2015-03-21,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1600
+EMP0066,Rövşən Yusifov,Kişi,2000-01-09,2024-05-30,2025-05-11,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,IT Dəstək,Mingəçevir,Digər regionlar,900
+EMP0067,Nübar Nəbiyeva,Qadın,1994-02-27,2019-04-20,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,1090
+EMP0068,Rəşad Cəfərov,Kişi,1979-11-24,2021-07-21,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Naxçıvan,Digər regionlar,1940
+EMP0069,Kənan Əhmədov,Kişi,1998-08-31,2024-04-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,920
+EMP0070,Təbriz Səfərov,Kişi,1990-11-21,2020-11-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0071,Kənul Bayramova,Qadın,1993-08-25,2023-03-23,,Aktiv,,,İstehsalat,Texnik,Mingəçevir,Digər regionlar,1080
+EMP0072,Sənan Yusifov,Kişi,1992-07-18,2022-01-21,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,910
+EMP0073,Aynur Valiyeva,Qadın,1994-06-10,2020-10-21,2026-07-19,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,890
+EMP0074,Rauf Qasımov,Kişi,1975-09-17,2017-06-22,2026-09-24,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,2390
+EMP0075,Ülviyyə Kərimova,Qadın,1984-05-26,2021-08-22,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1540
+EMP0076,Murad Hacıyev,Kişi,1988-11-02,2023-09-28,2026-02-19,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,680
+EMP0077,Aynur Qasımova,Qadın,1999-09-02,2020-05-21,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1610
+EMP0078,Aysel Babayeva,Qadın,1986-05-29,2024-07-26,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Bakı,Bakı,1250
+EMP0079,Türkan Rzayeva,Qadın,1998-05-18,2024-08-06,2026-09-15,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1380
+EMP0080,Cavid Mustafayev,Kişi,1994-03-19,2023-01-01,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,720
+EMP0081,Ayşən Əsgərova,Qadın,1996-08-20,2022-06-07,2025-12-30,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,810
+EMP0082,Orxan Əhmədov,Kişi,1986-01-17,2021-04-11,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şirvan,Digər regionlar,980
+EMP0083,Rauf Qasımov,Kişi,1989-06-30,2024-07-03,2025-10-04,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Meneceri,Bakı,Bakı,1240
+EMP0084,Zümrüd Həsənova,Qadın,1996-11-15,2024-09-18,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1180
+EMP0085,Fidan İsmayılova,Qadın,1982-07-27,2021-03-26,2025-12-03,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1840
+EMP0086,Ruslan Abbasov,Kişi,1988-07-07,2020-12-22,2025-08-25,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,İnformasiya Texnologiyaları,Sistem Administratoru,Quba,Digər regionlar,2150
+EMP0087,Nigar Cəfərova,Qadın,1986-12-09,2020-08-17,,Aktiv,,,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,740
+EMP0088,Ülviyyə Mustafayeva,Qadın,1998-04-15,2022-11-17,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1050
+EMP0089,Nicat Əhmədov,Kişi,1999-02-27,2024-08-04,2025-05-14,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0090,Əli Həsənov,Kişi,1992-05-05,2023-08-19,2026-03-03,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Anbardar,Lənkəran,Digər regionlar,720
+EMP0091,Emil Rzayev,Kişi,1995-06-06,2024-01-26,2025-10-08,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnsan Resursları,Rekruter,Abşeron,Abşeron-Sumqayıt,960
+EMP0092,Türkan Orucova,Qadın,1986-09-22,2019-02-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,740
+EMP0093,Anar Valiyev,Kişi,1999-12-07,2024-06-03,2024-12-11,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1090
+EMP0094,Ayşən Qasımova,Qadın,1989-06-06,2019-04-25,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Mingəçevir,Digər regionlar,1090
+EMP0095,Ceyhun Rzayev,Kişi,1997-06-30,2020-06-23,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1090
+EMP0096,Nərmin Kərimova,Qadın,1998-11-14,2023-10-22,2024-11-02,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Bakı,Bakı,720
+EMP0097,Mahir Quliyev,Kişi,1996-07-16,2022-01-27,2025-06-06,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Müştəri Xidmətləri,Operator,Bakı,Bakı,610
+EMP0098,Rauf Rzayev,Kişi,1986-11-08,2023-01-02,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Gəncə,Digər regionlar,2090
+EMP0099,Tural Bayramov,Kişi,1990-01-14,2023-06-30,2025-02-23,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2550
+EMP0100,Əli Süleymanov,Kişi,1990-05-31,2020-06-25,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1930
+EMP0101,Xanım Hacıyeva,Qadın,1994-03-09,2022-09-29,2025-09-15,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Böyük Operator,Mingəçevir,Digər regionlar,920
+EMP0102,Röya Quliyeva,Qadın,1981-09-17,2022-11-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Mingəçevir,Digər regionlar,620
+EMP0103,Gülnar Qasımova,Qadın,1998-07-25,2023-04-23,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,780
+EMP0104,Elnur Cəfərov,Kişi,1997-03-20,2022-11-24,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,820
+EMP0105,Əfsanə Nəbiyeva,Qadın,1992-06-05,2023-11-01,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2380
+EMP0106,Eldar Səfərov,Kişi,1991-04-04,2020-09-29,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,890
+EMP0107,Sənan Hacıyev,Kişi,1996-10-17,2022-07-25,,Aktiv,,,İstehsalat,Texnik,Lənkəran,Digər regionlar,1070
+EMP0108,Emil Kərimov,Kişi,1979-06-03,2016-09-25,,Aktiv,,,Satış,Satış Meneceri,Abşeron,Abşeron-Sumqayıt,1670
+EMP0109,Türkan Əhmədova,Qadın,1992-10-23,2015-09-20,,Aktiv,,,Marketinq,SMM Meneceri,Quba,Digər regionlar,1280
+EMP0110,Cavid Cəfərov,Kişi,1996-11-04,2023-06-28,,Aktiv,,,Maliyyə,Mühasib,Sumqayıt,Abşeron-Sumqayıt,1080
+EMP0111,Murad Valiyev,Kişi,1997-01-12,2024-07-20,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,660
+EMP0112,Samir Əliyev,Kişi,1992-12-04,2023-04-22,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,3510
+EMP0113,Kamran Hüseynov,Kişi,1984-07-07,2020-10-30,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2710
+EMP0114,Fərid Valiyev,Kişi,1989-11-10,2019-07-29,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2620
+EMP0115,Rəşad Kərimov,Kişi,1996-10-12,2023-06-29,2025-02-04,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,600
+EMP0116,Gülnar Əliyeva,Qadın,1999-02-17,2024-05-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,910
+EMP0117,Ceyhun Babayev,Kişi,1999-06-24,2023-07-12,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,590
+EMP0118,Cavid Rzayev,Kişi,1991-04-04,2020-11-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,800
+EMP0119,Günel Cəfərova,Qadın,1992-10-07,2023-05-28,2026-06-14,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İnsan Resursları,HR Meneceri,Quba,Digər regionlar,2250
+EMP0120,Nərmin İsmayılova,Qadın,1998-02-08,2023-12-10,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1280
+EMP0121,Elvin Rzayev,Kişi,1996-11-12,2024-02-20,2024-10-08,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,730
+EMP0122,Ceyhun Nəbiyev,Kişi,1997-12-23,2024-03-26,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,800
+EMP0123,Sevda Mustafayeva,Qadın,1992-04-30,2022-10-25,2025-11-01,Ayrılıb,Qeyri-könüllü,Performans,Maliyyə,Mühasib,Bakı,Bakı,1270
+EMP0124,Təbriz Kərimov,Kişi,1997-06-30,2020-08-23,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1920
+EMP0125,Fidan Süleymanova,Qadın,1991-08-03,2023-11-29,2025-09-19,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,570
+EMP0126,Aytən Əliyeva,Qadın,1991-01-11,2017-11-28,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1540
+EMP0127,Fərid Əliyev,Kişi,1991-08-04,2024-04-21,2024-10-20,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Logistika,Anbardar,Lənkəran,Digər regionlar,610
+EMP0128,Fərid Yusifov,Kişi,1995-04-14,2023-05-02,2025-01-08,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,820
+EMP0129,Emil Əhmədov,Kişi,1994-02-23,2024-02-24,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1160
+EMP0130,Nigar Babayeva,Qadın,1995-01-10,2024-08-26,,Aktiv,,,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,620
+EMP0131,Elnur Nəbiyev,Kişi,1992-04-17,2018-01-12,,Aktiv,,,Logistika,Logistika Koordinatoru,Gəncə,Digər regionlar,1590
+EMP0132,Leyla Valiyeva,Qadın,1994-11-13,2024-08-07,2026-01-08,Ayrılıb,Könüllü,Xaricə miqrasiya,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1080
+EMP0133,Samir Əhmədov,Kişi,1980-12-28,2023-08-18,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Bakı,Bakı,2120
+EMP0134,Nübar Səfərova,Qadın,1998-09-18,2021-12-17,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1390
+EMP0135,Vüqar Səfərov,Kişi,1992-01-30,2021-02-18,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,810
+EMP0136,Nübar Məmmədova,Qadın,1976-01-19,2015-03-02,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2810
+EMP0137,Sənan Bayramov,Kişi,1992-11-28,2022-04-04,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Abşeron,Abşeron-Sumqayıt,790
+EMP0138,Ayşən Yusifova,Qadın,1990-04-18,2023-02-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,760
+EMP0139,Leyla Hacıyeva,Qadın,1989-09-05,2023-11-12,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,630
+EMP0140,Röya Abbasova,Qadın,2001-08-10,2024-07-06,2025-07-24,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Logistika,Anbardar,Bakı,Bakı,760
+EMP0141,Tural Abbasov,Kişi,1986-04-21,2022-02-09,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,800
+EMP0142,Ayşən Yusifova,Qadın,1995-03-11,2024-07-29,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1000
+EMP0143,Vüqar Hüseynov,Kişi,1991-03-08,2024-03-06,,Aktiv,,,Satış,Satış Meneceri,Şirvan,Digər regionlar,1410
+EMP0144,Rəşad Məmmədov,Kişi,1980-02-13,2022-07-11,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2600
+EMP0145,Aytən Qasımova,Qadın,1997-07-25,2023-11-28,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,1990
+EMP0146,Səbinə Kərimova,Qadın,1977-10-02,2024-05-16,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,2170
+EMP0147,Ruslan Əsgərov,Kişi,1980-09-02,2020-11-23,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1670
+EMP0148,Eldar Cəfərov,Kişi,1994-11-15,2017-10-24,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1040
+EMP0149,Rauf Mustafayev,Kişi,1991-04-27,2018-02-13,2025-06-13,Ayrılıb,Könüllü,Rəhbərlə münasibət,İnformasiya Texnologiyaları,IT Dəstək,Gəncə,Digər regionlar,890
+EMP0150,Ayşən Babayeva,Qadın,1991-12-21,2018-01-03,2026-04-13,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Bakı,Bakı,660
+EMP0151,Əfsanə Mustafayeva,Qadın,1992-01-03,2023-05-02,2026-08-25,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,600
+EMP0152,Eldar Kərimov,Kişi,1996-09-30,2024-02-17,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,760
+EMP0153,Ceyhun Yusifov,Kişi,1998-03-10,2023-01-04,2026-05-03,Ayrılıb,Könüllü,Təhsilə davam,Satış,Satış Meneceri,Bakı,Bakı,1570
+EMP0154,Fidan Cəfərova,Qadın,1995-11-29,2024-08-27,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1180
+EMP0155,Rəşad Hacıyev,Kişi,1994-02-03,2023-03-21,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Şirvan,Digər regionlar,1510
+EMP0156,Mahir Kərimov,Kişi,1993-01-31,2017-03-18,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1320
+EMP0157,Türkan Orucova,Qadın,1993-09-23,2024-08-13,2024-10-08,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnsan Resursları,Rekruter,Bakı,Bakı,940
+EMP0158,Eldar Əsgərov,Kişi,2001-11-02,2022-12-24,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,890
+EMP0159,Emil Mustafayev,Kişi,1993-08-16,2020-04-05,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,820
+EMP0160,Sevda Cəfərova,Qadın,1983-02-06,2024-01-03,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1900
+EMP0161,Nübar Hacıyeva,Qadın,1987-05-08,2020-08-08,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,1020
+EMP0162,Tural Hacıyev,Kişi,1985-08-17,2023-07-13,2025-04-10,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,1990
+EMP0163,Nicat Valiyev,Kişi,1991-11-14,2023-12-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1030
+EMP0164,Kamran Quliyev,Kişi,1984-05-09,2017-04-09,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1280
+EMP0165,Sevinc Səfərova,Qadın,1996-02-21,2022-11-08,2025-02-25,Ayrılıb,Könüllü,Xaricə miqrasiya,Satış,Satış Meneceri,Şəki,Digər regionlar,1370
+EMP0166,Elvin Hüseynov,Kişi,1992-05-10,2024-08-27,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Sumqayıt,Abşeron-Sumqayıt,1600
+EMP0167,Nicat Səfərov,Kişi,1986-10-02,2017-12-25,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,830
+EMP0168,Tural Mustafayev,Kişi,1988-10-04,2015-03-22,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mingəçevir,Digər regionlar,820
+EMP0169,Kənan Qasımov,Kişi,1983-10-31,2024-02-05,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,1700
+EMP0170,Kənan Cəfərov,Kişi,1986-05-08,2023-11-13,2026-07-01,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Növbə Rəisi,Bakı,Bakı,1770
+EMP0171,Lalə Cəfərova,Qadın,1991-10-13,2023-05-10,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Mingəçevir,Digər regionlar,2910
+EMP0172,Ayşən Babayeva,Qadın,1994-03-12,2023-09-27,2024-12-12,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,870
+EMP0173,Mahir Səfərov,Kişi,1990-10-04,2021-11-06,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,2160
+EMP0174,Aysel Hacıyeva,Qadın,1990-02-26,2023-04-29,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Abşeron,Abşeron-Sumqayıt,2930
+EMP0175,Lalə Cəfərova,Qadın,1993-10-27,2024-01-25,2025-08-29,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Satış,Satış Meneceri,Lənkəran,Digər regionlar,1160
+EMP0176,Ayşən Məmmədova,Qadın,1988-02-21,2022-06-15,,Aktiv,,,Satış,Satış Nümayəndəsi,Mil-Muğan,Digər regionlar,870
+EMP0177,Elnur Orucov,Kişi,1990-01-23,2023-11-26,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,810
+EMP0178,Fərid Səfərov,Kişi,1998-02-23,2019-01-22,2025-03-17,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,760
+EMP0179,Kənul Abbasova,Qadın,1988-12-15,2023-09-14,2026-05-26,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Marketinq,Marketinq Mütəxəssisi,Naxçıvan,Digər regionlar,1470
+EMP0180,Sevda Yusifova,Qadın,1998-12-10,2021-07-21,2025-03-29,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnsan Resursları,Rekruter,Şirvan,Digər regionlar,1140
+EMP0181,Təbriz Orucov,Kişi,1991-05-06,2020-06-26,2025-03-12,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,910
+EMP0182,Aytən Həsənova,Qadın,1989-02-13,2024-01-17,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Bakı,Bakı,1610
+EMP0183,Nərmin Səfərova,Qadın,1991-09-16,2022-09-29,,Aktiv,,,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,870
+EMP0184,Əfsanə Cəfərova,Qadın,1996-07-31,2021-05-08,,Aktiv,,,İstehsalat,Texnik,Gəncə,Digər regionlar,980
+EMP0185,Fidan Babayeva,Qadın,2003-01-27,2023-03-05,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1270
+EMP0186,Əfsanə Abbasova,Qadın,1987-01-08,2015-02-16,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1850
+EMP0187,Təbriz Hüseynov,Kişi,1994-03-29,2022-01-23,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,750
+EMP0188,Emil İsmayılov,Kişi,1995-02-19,2023-11-17,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1120
+EMP0189,Kənul Qasımova,Qadın,1993-09-23,2024-02-20,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Sumqayıt,Abşeron-Sumqayıt,790
+EMP0190,Zümrüd Rzayeva,Qadın,1992-05-07,2022-05-27,2025-03-07,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Nümayəndəsi,Bakı,Bakı,790
+EMP0191,Kənan Səfərov,Kişi,1996-05-08,2023-12-15,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1030
+EMP0192,Rauf Hacıyev,Kişi,1984-07-19,2019-07-22,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,760
+EMP0193,Cavid Cəfərov,Kişi,1988-03-08,2016-10-06,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Abşeron,Abşeron-Sumqayıt,1100
+EMP0194,Kənul Əliyeva,Qadın,2001-12-15,2024-05-01,2024-12-25,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Müştəri Xidmətləri,Operator,Şirvan,Digər regionlar,590
+EMP0195,Məryəm İsmayılova,Qadın,2001-12-11,2023-09-24,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1310
+EMP0196,Əli Süleymanov,Kişi,1993-11-28,2023-01-23,,Aktiv,,,Müştəri Xidmətləri,Operator,Şəki,Digər regionlar,560
+EMP0197,Rövşən Hüseynov,Kişi,1988-03-08,2024-01-18,2026-09-22,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,Növbə Rəisi,Bakı,Bakı,1590
+EMP0198,Ceyhun Quliyev,Kişi,1996-05-26,2019-09-15,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,830
+EMP0199,Aysel Mustafayeva,Qadın,1986-07-06,2021-09-07,,Aktiv,,,Maliyyə,Mühasib,Gəncə,Digər regionlar,1100
+EMP0200,Kamran Əhmədov,Kişi,1998-07-20,2023-01-11,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Gəncə,Digər regionlar,1030
+EMP0201,Anar Rzayev,Kişi,1986-10-21,2016-08-28,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,840
+EMP0202,Fidan Abbasova,Qadın,1992-07-28,2021-11-28,2024-11-21,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Bakı,Bakı,680
+EMP0203,Emil Babayev,Kişi,1996-08-27,2022-01-06,2026-01-29,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Texnik,Bakı,Bakı,1160
+EMP0204,Nübar Nəbiyeva,Qadın,1989-11-17,2023-11-13,2024-11-11,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Satış Nümayəndəsi,Bakı,Bakı,670
+EMP0205,Leyla Valiyeva,Qadın,1997-05-03,2023-11-24,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,650
+EMP0206,Tural İsmayılov,Kişi,1991-10-21,2023-10-12,2026-02-07,Ayrılıb,Könüllü,Təhsilə davam,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,830
+EMP0207,Türkan Süleymanova,Qadın,1996-08-07,2023-09-21,,Aktiv,,,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,770
+EMP0208,Elnur Hüseynov,Kişi,1997-05-31,2024-02-11,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Gəncə,Digər regionlar,940
+EMP0209,Anar Əhmədov,Kişi,1992-12-24,2024-04-09,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,890
+EMP0210,Zaur Hüseynov,Kişi,1994-05-27,2018-09-10,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Gəncə,Digər regionlar,770
+EMP0211,Ayşən Hüseynova,Qadın,2003-12-24,2024-08-22,2026-06-29,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Mingəçevir,Digər regionlar,630
+EMP0212,Səbinə Mustafayeva,Qadın,2000-12-07,2023-02-16,,Aktiv,,,Marketinq,SMM Meneceri,Lənkəran,Digər regionlar,1390
+EMP0213,Səbinə Qasımova,Qadın,1987-09-02,2023-05-08,,Aktiv,,,Müştəri Xidmətləri,Operator,Mingəçevir,Digər regionlar,630
+EMP0214,Fərid Mustafayev,Kişi,2002-03-08,2024-03-25,2025-02-10,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Satış Nümayəndəsi,Bakı,Bakı,740
+EMP0215,Vüqar İsmayılov,Kişi,1989-01-31,2024-05-19,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,600
+EMP0216,Samir Nəbiyev,Kişi,1991-09-05,2022-11-16,2025-09-10,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,720
+EMP0217,Orxan Yusifov,Kişi,2000-01-30,2021-10-18,2025-09-02,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Logistika,Sürücü-Ekspeditor,Abşeron,Abşeron-Sumqayıt,740
+EMP0218,Əli Əliyev,Kişi,1999-11-05,2020-02-15,2025-07-18,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İstehsalat,İstehsalat Operatoru,Abşeron,Abşeron-Sumqayıt,830
+EMP0219,Samir Nəbiyev,Kişi,1993-10-08,2024-05-04,2025-01-24,Ayrılıb,Könüllü,Rəhbərlə münasibət,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,660
+EMP0220,Aysel Bayramova,Qadın,1989-04-09,2024-01-10,,Aktiv,,,İnsan Resursları,HR Meneceri,Abşeron,Abşeron-Sumqayıt,2140
+EMP0221,Eldar Əliyev,Kişi,1998-08-24,2021-04-08,2025-02-20,Ayrılıb,Qeyri-könüllü,Performans,İstehsalat,İstehsalat Operatoru,Mil-Muğan,Digər regionlar,800
+EMP0222,Təbriz Kərimov,Kişi,1998-06-14,2023-12-22,,Aktiv,,,Logistika,Anbardar,Naxçıvan,Digər regionlar,700
+EMP0223,Elvin Mustafayev,Kişi,1991-02-13,2024-08-24,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1100
+EMP0224,Orxan Rzayev,Kişi,1994-02-22,2024-03-15,2024-12-05,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Satış,Satış Meneceri,Bakı,Bakı,1030
+EMP0225,Kənul Quliyeva,Qadın,1995-09-04,2022-11-23,2025-07-10,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,670
+EMP0226,Ülviyyə Əsgərova,Qadın,1994-01-21,2024-02-27,,Aktiv,,,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,560
+EMP0227,Aynur Abbasova,Qadın,1993-07-14,2020-12-22,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2130
+EMP0228,Elvin Nəbiyev,Kişi,1968-10-23,2020-06-14,,Aktiv,,,Marketinq,Marketinq Meneceri,Bakı,Bakı,2910
+EMP0229,Vüqar Əhmədov,Kişi,1991-06-07,2023-06-24,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Lənkəran,Digər regionlar,2170
+EMP0230,Leyla Məmmədova,Qadın,1987-08-11,2015-03-07,2025-12-25,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Satış Meneceri,Şəki,Digər regionlar,1910
+EMP0231,Fidan Əliyeva,Qadın,1990-01-06,2024-04-22,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1340
+EMP0232,Zümrüd Qasımova,Qadın,1985-12-03,2021-02-17,,Aktiv,,,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,760
+EMP0233,Rauf Bayramov,Kişi,1985-01-09,2023-08-01,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Bakı,Bakı,1970
+EMP0234,Fərid Əhmədov,Kişi,1990-04-01,2021-11-07,,Aktiv,,,Logistika,Anbardar,Quba,Digər regionlar,800
+EMP0235,Türkan Quliyeva,Qadın,1995-10-18,2023-07-01,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1310
+EMP0236,Murad Yusifov,Kişi,1991-09-11,2022-11-11,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,570
+EMP0237,Məryəm Nəbiyeva,Qadın,1987-07-04,2024-01-19,,Aktiv,,,Müştəri Xidmətləri,Operator,Mil-Muğan,Digər regionlar,650
+EMP0238,Röya Həsənova,Qadın,1993-05-12,2024-03-05,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1820
+EMP0239,Türkan Babayeva,Qadın,1993-09-27,2023-04-25,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,840
+EMP0240,Mahir Orucov,Kişi,1991-04-09,2015-03-07,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1160
+EMP0241,Nübar Nəbiyeva,Qadın,1989-11-30,2024-02-21,2025-05-07,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Maliyyə,Maliyyə Analitiki,Lənkəran,Digər regionlar,1900
+EMP0242,Emil Əsgərov,Kişi,1991-12-16,2023-10-30,2025-11-26,Ayrılıb,Könüllü,İş yükü və yorğunluq,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,1020
+EMP0243,Nübar Abbasova,Qadın,2003-04-02,2023-05-06,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Şəki,Digər regionlar,1050
+EMP0244,Samir Yusifov,Kişi,1993-09-24,2016-05-02,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,940
+EMP0245,Anar Babayev,Kişi,1982-02-20,2023-07-18,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,620
+EMP0246,Əli Məmmədov,Kişi,1993-02-27,2022-08-30,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1550
+EMP0247,Nigar Rzayeva,Qadın,1989-02-03,2018-06-15,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,860
+EMP0248,Elnur Səfərov,Kişi,1985-11-30,2015-03-18,,Aktiv,,,Logistika,Logistika Koordinatoru,Şirvan,Digər regionlar,1380
+EMP0249,Sevda Həsənova,Qadın,2000-03-02,2024-02-15,2025-09-03,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,920
+EMP0250,Leyla Yusifova,Qadın,1994-08-05,2023-03-15,,Aktiv,,,Logistika,Anbardar,Naxçıvan,Digər regionlar,670
+EMP0251,Zaur Qasımov,Kişi,1992-09-27,2024-07-28,2024-10-03,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0252,Sevinc Əsgərova,Qadın,1996-06-21,2021-09-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1010
+EMP0253,Ayşən Orucova,Qadın,1995-12-09,2024-06-19,,Aktiv,,,İnsan Resursları,Rekruter,Quba,Digər regionlar,960
+EMP0254,Rəşad Əhmədov,Kişi,1999-10-15,2023-03-06,2026-02-07,Ayrılıb,Könüllü,Başqa şəhərə köçmə,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,790
+EMP0255,Sevinc Qasımova,Qadın,1995-09-23,2020-01-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,730
+EMP0256,Nübar Süleymanova,Qadın,1998-02-22,2023-07-10,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1390
+EMP0257,Emil Orucov,Kişi,1981-08-28,2022-06-15,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1520
+EMP0258,Murad Rzayev,Kişi,1998-01-15,2019-10-21,,Aktiv,,,İstehsalat,Texnik,Abşeron,Abşeron-Sumqayıt,1150
+EMP0259,Orxan Həsənov,Kişi,1986-05-20,2022-01-18,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Qarabağ,Digər regionlar,880
+EMP0260,Fidan Valiyeva,Qadın,1988-10-26,2024-05-06,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1090
+EMP0261,Aynur Əliyeva,Qadın,1994-02-16,2015-09-12,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,730
+EMP0262,Nübar Əliyeva,Qadın,1994-07-28,2019-08-18,2024-10-06,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,1980
+EMP0263,Təbriz Əhmədov,Kişi,1992-09-30,2024-02-12,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1580
+EMP0264,Rövşən Cəfərov,Kişi,1996-06-10,2024-09-17,2025-01-06,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Satış Meneceri,Bakı,Bakı,1540
+EMP0265,Eldar Məmmədov,Kişi,1998-03-27,2023-08-22,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,610
+EMP0266,Əfsanə Valiyeva,Qadın,1997-04-03,2021-08-22,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,710
+EMP0267,Səbinə İsmayılova,Qadın,1990-11-27,2024-05-16,2025-02-18,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,660
+EMP0268,Aysel Əliyeva,Qadın,1985-03-13,2023-09-14,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Lənkəran,Digər regionlar,1390
+EMP0269,Kamran Mustafayev,Kişi,1990-09-10,2015-08-05,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,1120
+EMP0270,Orxan Məmmədov,Kişi,1993-02-05,2020-11-27,,Aktiv,,,Satış,Regional Satış Rəhbəri,Sumqayıt,Abşeron-Sumqayıt,2600
+EMP0271,Ülviyyə Nəbiyeva,Qadın,1992-02-12,2022-08-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1000
+EMP0272,Arzu Abbasova,Qadın,1993-02-18,2024-01-23,,Aktiv,,,İnsan Resursları,Rekruter,Lənkəran,Digər regionlar,1110
+EMP0273,Nigar Cəfərova,Qadın,1994-04-30,2022-02-17,2025-12-11,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Nümayəndəsi,Bakı,Bakı,960
+EMP0274,Mahir Süleymanov,Kişi,1998-10-16,2023-04-25,,Aktiv,,,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,900
+EMP0275,Ceyhun Süleymanov,Kişi,1996-01-01,2020-11-06,2025-01-30,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,610
+EMP0276,Kənan Kərimov,Kişi,1979-01-20,2015-02-14,,Aktiv,,,Logistika,Logistika Koordinatoru,Gəncə,Digər regionlar,1360
+EMP0277,Nərmin Səfərova,Qadın,1985-09-02,2023-03-27,2026-04-13,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,1020
+EMP0278,Murad Abbasov,Kişi,1995-03-06,2023-05-08,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,950
+EMP0279,Arzu Hüseynova,Qadın,1991-07-16,2023-01-22,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mingəçevir,Digər regionlar,690
+EMP0280,Emil Hacıyev,Kişi,1992-01-16,2022-12-24,2024-11-12,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Bakı,Bakı,730
+EMP0281,Əli Nəbiyev,Kişi,2001-03-09,2023-05-31,2025-06-09,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1210
+EMP0282,Samir Əliyev,Kişi,1979-06-19,2015-03-08,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2690
+EMP0283,Zaur Valiyev,Kişi,1992-10-10,2024-07-11,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Gəncə,Digər regionlar,880
+EMP0284,Aynur Mustafayeva,Qadın,1995-08-20,2022-01-04,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1380
+EMP0285,Zümrüd Cəfərova,Qadın,1990-09-11,2023-08-21,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,840
+EMP0286,Nübar Əsgərova,Qadın,1994-10-20,2022-07-17,2025-02-12,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Operator,Bakı,Bakı,620
+EMP0287,Gülnar Səfərova,Qadın,1994-07-23,2022-01-09,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Naxçıvan,Digər regionlar,1280
+EMP0288,Nicat Süleymanov,Kişi,1991-08-08,2024-02-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,770
+EMP0289,Vüqar Həsənov,Kişi,1996-06-06,2022-04-04,,Aktiv,,,Logistika,Anbardar,Gəncə,Digər regionlar,770
+EMP0290,Elvin Valiyev,Kişi,2002-08-11,2023-02-22,2025-01-23,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,İstehsalat Operatoru,Abşeron,Abşeron-Sumqayıt,770
+EMP0291,Ruslan Əliyev,Kişi,1994-02-02,2021-08-28,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1390
+EMP0292,Rövşən İsmayılov,Kişi,1986-05-24,2023-09-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,1040
+EMP0293,Zaur Süleymanov,Kişi,1998-05-13,2023-06-05,2026-01-09,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2840
+EMP0294,Rövşən Həsənov,Kişi,1996-07-23,2022-08-08,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,780
+EMP0295,Səbinə Hacıyeva,Qadın,1993-08-03,2021-12-29,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Bakı,Bakı,1490
+EMP0296,Gülnar Bayramova,Qadın,2003-02-24,2023-05-31,,Aktiv,,,İstehsalat,Texnik,Quba,Digər regionlar,990
+EMP0297,Nübar Mustafayeva,Qadın,1991-08-25,2024-03-17,2025-03-30,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Meneceri,Şəki,Digər regionlar,1530
+EMP0298,Elnur İsmayılov,Kişi,1990-10-27,2022-04-17,,Aktiv,,,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,630
+EMP0299,Rəşad Əsgərov,Kişi,1991-06-10,2023-11-11,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Naxçıvan,Digər regionlar,880
+EMP0300,Türkan Süleymanova,Qadın,1989-03-25,2023-11-11,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Sumqayıt,Abşeron-Sumqayıt,870
+EMP0301,Rauf Babayev,Kişi,1993-11-25,2022-11-26,2024-12-16,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,980
+EMP0302,Röya İsmayılova,Qadın,1988-11-30,2021-08-29,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Gəncə,Digər regionlar,1730
+EMP0303,Rəşad Orucov,Kişi,1988-09-16,2022-02-21,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2510
+EMP0304,Samir Bayramov,Kişi,2001-07-18,2023-12-17,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,820
+EMP0305,Elnur Əhmədov,Kişi,1990-08-05,2023-03-25,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1400
+EMP0306,Təbriz Yusifov,Kişi,1997-12-13,2024-04-21,2024-12-22,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,İstehsalat Operatoru,Mil-Muğan,Digər regionlar,680
+EMP0307,Samir Abbasov,Kişi,1986-02-23,2022-08-10,,Aktiv,,,Hüquq,Hüquqşünas,Lənkəran,Digər regionlar,1680
+EMP0308,Aynur Orucova,Qadın,1993-12-28,2023-12-15,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1430
+EMP0309,Əfsanə Hacıyeva,Qadın,1981-02-22,2021-01-05,,Aktiv,,,Maliyyə,Baş Mühasib,Bakı,Bakı,2900
+EMP0310,Nərmin Yusifova,Qadın,1999-02-13,2022-05-04,,Aktiv,,,İnsan Resursları,Rekruter,Abşeron,Abşeron-Sumqayıt,960
+EMP0311,Eldar Mustafayev,Kişi,1991-02-26,2022-12-05,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,870
+EMP0312,Röya Cəfərova,Qadın,1993-06-07,2024-04-15,2025-08-01,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Maliyyə,Mühasib,Bakı,Bakı,870
+EMP0313,Rəşad Nəbiyev,Kişi,1990-06-21,2022-07-09,,Aktiv,,,Logistika,Anbardar,Sumqayıt,Abşeron-Sumqayıt,740
+EMP0314,Eldar Kərimov,Kişi,1999-10-21,2023-12-28,2025-01-16,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Satış,Satış Nümayəndəsi,Bakı,Bakı,790
+EMP0315,Ayşən Nəbiyeva,Qadın,1996-04-25,2023-08-16,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1060
+EMP0316,Mahir Əhmədov,Kişi,1967-12-19,2022-11-05,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Sumqayıt,Abşeron-Sumqayıt,1720
+EMP0317,Kənan Mustafayev,Kişi,1992-11-25,2021-05-25,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,900
+EMP0318,Ceyhun Hüseynov,Kişi,1986-03-06,2017-01-18,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Sumqayıt,Abşeron-Sumqayıt,1040
+EMP0319,Mahir Əsgərov,Kişi,1993-05-04,2023-05-03,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Sumqayıt,Abşeron-Sumqayıt,2470
+EMP0320,Səbinə Səfərova,Qadın,1996-07-12,2023-10-28,2026-08-02,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Marketinq,SMM Meneceri,Bakı,Bakı,1380
+EMP0321,Fidan Əhmədova,Qadın,1998-02-01,2021-08-13,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,740
+EMP0322,Vüqar Orucov,Kişi,1993-08-02,2024-07-26,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,950
+EMP0323,Rəşad Abbasov,Kişi,1996-10-02,2023-02-19,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,790
+EMP0324,Sənan Cəfərov,Kişi,1984-03-01,2024-08-12,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1730
+EMP0325,Rauf Quliyev,Kişi,1999-05-09,2022-12-26,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,980
+EMP0326,Xanım Hüseynova,Qadın,2000-07-06,2024-03-05,2026-02-25,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,530
+EMP0327,Günel Səfərova,Qadın,1992-12-16,2023-08-06,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,930
+EMP0328,Əli Əhmədov,Kişi,2000-03-28,2024-03-23,,Aktiv,,,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,680
+EMP0329,Səbinə Babayeva,Qadın,1980-07-15,2015-03-11,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,790
+EMP0330,Fidan Orucova,Qadın,1985-11-15,2015-03-30,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1990
+EMP0331,Anar Həsənov,Kişi,2003-07-28,2023-12-07,2025-07-05,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Mingəçevir,Digər regionlar,790
+EMP0332,Tural Məmmədov,Kişi,1999-04-21,2021-08-12,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,890
+EMP0333,Rauf Quliyev,Kişi,1991-12-18,2022-10-01,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,940
+EMP0334,Cavid İsmayılov,Kişi,1996-11-24,2022-12-30,,Aktiv,,,Logistika,Logistika Koordinatoru,Abşeron,Abşeron-Sumqayıt,1150
+EMP0335,Samir Mustafayev,Kişi,1986-11-26,2016-04-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,840
+EMP0336,Elnur Kərimov,Kişi,1992-08-25,2024-04-21,2024-12-04,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Maliyyə,Mühasib,Gəncə,Digər regionlar,1080
+EMP0337,Ceyhun Babayev,Kişi,2003-09-04,2023-12-18,2024-11-04,Ayrılıb,Könüllü,İş yükü və yorğunluq,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,780
+EMP0338,Türkan Babayeva,Qadın,1991-05-02,2024-06-26,2024-12-17,Ayrılıb,Qeyri-könüllü,Performans,İstehsalat,Texnik,Bakı,Bakı,1120
+EMP0339,Kənan Valiyev,Kişi,1992-01-01,2022-06-22,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,870
+EMP0340,Vüqar Kərimov,Kişi,1987-07-23,2015-10-10,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,1010
+EMP0341,Rövşən Hüseynov,Kişi,1997-11-15,2021-08-29,,Aktiv,,,İstehsalat,Texnik,Gəncə,Digər regionlar,900
+EMP0342,Aytən Əsgərova,Qadın,1986-08-27,2020-09-03,2025-09-28,Ayrılıb,Könüllü,İş yükü və yorğunluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,720
+EMP0343,Kamran Kərimov,Kişi,1987-02-10,2015-02-22,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1380
+EMP0344,Arzu Həsənova,Qadın,1994-07-12,2024-05-02,2024-12-16,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,Texnik,Quba,Digər regionlar,1030
+EMP0345,Aytən Nəbiyeva,Qadın,1981-09-06,2018-04-07,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1320
+EMP0346,Lalə Səfərova,Qadın,1988-04-18,2023-08-08,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,1080
+EMP0347,Kənul Rzayeva,Qadın,1993-03-05,2021-11-14,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Gəncə,Digər regionlar,890
+EMP0348,Anar Orucov,Kişi,1992-04-12,2024-05-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,940
+EMP0349,Zaur Orucov,Kişi,1985-05-19,2023-11-27,,Aktiv,,,Logistika,Anbardar,Naxçıvan,Digər regionlar,660
+EMP0350,Sevda Süleymanova,Qadın,1975-09-07,2024-04-02,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Mingəçevir,Digər regionlar,1400
+EMP0351,Leyla Abbasova,Qadın,1997-05-08,2023-11-12,2025-01-02,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,İstehsalat Operatoru,Şirvan,Digər regionlar,790
+EMP0352,Fərid Əhmədov,Kişi,1995-10-19,2021-06-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mil-Muğan,Digər regionlar,840
+EMP0353,Fidan Hüseynova,Qadın,1978-04-27,2018-11-25,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,860
+EMP0354,Sənan Əsgərov,Kişi,1993-07-10,2024-04-28,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,730
+EMP0355,Səbinə Hacıyeva,Qadın,1987-12-15,2022-01-22,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,910
+EMP0356,Röya Hüseynova,Qadın,1988-05-06,2023-12-14,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1680
+EMP0357,Arzu Hacıyeva,Qadın,1998-04-07,2023-12-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,810
+EMP0358,Xanım Məmmədova,Qadın,1983-11-10,2021-01-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,810
+EMP0359,Orxan Quliyev,Kişi,1990-05-23,2022-02-03,2025-01-15,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Satış Meneceri,Bakı,Bakı,1050
+EMP0360,Orxan Nəbiyev,Kişi,1992-10-03,2022-08-27,2024-11-06,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Marketinq,Marketinq Mütəxəssisi,Mil-Muğan,Digər regionlar,1000
+EMP0361,Nərmin Kərimova,Qadın,2001-02-07,2023-06-11,2025-11-03,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,700
+EMP0362,Nigar Hacıyeva,Qadın,1990-09-14,2021-05-09,,Aktiv,,,Satış,Regional Satış Rəhbəri,Sumqayıt,Abşeron-Sumqayıt,2330
+EMP0363,Məryəm Quliyeva,Qadın,1990-06-12,2023-05-22,2025-02-27,Ayrılıb,Qeyri-könüllü,Performans,Maliyyə,Mühasib,Gəncə,Digər regionlar,1130
+EMP0364,Kamran Hacıyev,Kişi,1991-12-22,2022-12-29,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,790
+EMP0365,Emil Kərimov,Kişi,1991-07-19,2022-03-25,2025-11-06,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2750
+EMP0366,Rəşad Süleymanov,Kişi,1995-03-30,2019-09-06,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Qarabağ,Digər regionlar,920
+EMP0367,Rövşən Orucov,Kişi,1993-06-07,2023-03-08,2025-01-02,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1250
+EMP0368,Sənan Abbasov,Kişi,1988-03-26,2022-07-28,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,1620
+EMP0369,Emil Yusifov,Kişi,1985-01-19,2022-10-18,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,660
+EMP0370,Günel Nəbiyeva,Qadın,1992-07-30,2020-04-29,2024-11-08,Ayrılıb,Könüllü,İş yükü və yorğunluq,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,1080
+EMP0371,Əli Nəbiyev,Kişi,1998-11-02,2024-04-07,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,930
+EMP0372,Cavid Kərimov,Kişi,1987-08-03,2023-01-05,2025-06-11,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Satış,Satış Nümayəndəsi,Bakı,Bakı,780
+EMP0373,Zaur Bayramov,Kişi,1993-06-10,2019-12-15,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1120
+EMP0374,Ceyhun Məmmədov,Kişi,1996-05-17,2024-07-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,980
+EMP0375,Leyla Cəfərova,Qadın,1995-12-08,2024-09-05,2025-03-21,Ayrılıb,Qeyri-könüllü,Performans,İstehsalat,İstehsalat Mühəndisi,Gəncə,Digər regionlar,1670
+EMP0376,Leyla İsmayılova,Qadın,1989-12-01,2024-06-25,2024-11-29,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Meneceri,Bakı,Bakı,1180
+EMP0377,Xanım Əsgərova,Qadın,1984-06-13,2022-07-13,,Aktiv,,,İnsan Resursları,HR Meneceri,Abşeron,Abşeron-Sumqayıt,1990
+EMP0378,Aynur Bayramova,Qadın,1992-09-25,2022-03-31,2025-05-17,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Maliyyə,Mühasib,Bakı,Bakı,1330
+EMP0379,Aysel Yusifova,Qadın,1985-05-07,2023-10-01,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0380,Arzu Hüseynova,Qadın,1996-12-03,2024-08-16,2026-09-28,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP0381,Emil Cəfərov,Kişi,1985-09-02,2022-07-04,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Lənkəran,Digər regionlar,1850
+EMP0382,Ceyhun Yusifov,Kişi,1989-06-13,2023-11-05,2026-08-11,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,810
+EMP0383,Murad Həsənov,Kişi,1994-03-16,2022-11-14,2025-02-09,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Logistika,Anbardar,Qarabağ,Digər regionlar,700
+EMP0384,Arzu Səfərova,Qadın,1992-12-20,2024-06-01,2026-04-23,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,930
+EMP0385,Mahir Nəbiyev,Kişi,1988-01-19,2018-10-04,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,830
+EMP0386,Lalə Yusifova,Qadın,1987-10-31,2023-12-19,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1680
+EMP0387,Rəşad Hüseynov,Kişi,1988-08-01,2022-11-26,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,730
+EMP0388,Nicat Rzayev,Kişi,1989-09-19,2021-09-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,930
+EMP0389,Rəşad Orucov,Kişi,1990-06-28,2022-12-21,2026-07-28,Ayrılıb,Könüllü,İş yükü və yorğunluq,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,760
+EMP0390,Sənan Həsənov,Kişi,1990-01-26,2023-05-14,2026-08-09,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Bakı,Bakı,860
+EMP0391,Əfsanə Hüseynova,Qadın,2001-10-23,2022-08-18,,Aktiv,,,Hüquq,Hüquqşünas,Quba,Digər regionlar,1690
+EMP0392,Leyla Məmmədova,Qadın,1986-05-08,2024-07-10,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Lənkəran,Digər regionlar,1800
+EMP0393,Rauf Valiyev,Kişi,1990-05-20,2024-01-14,2026-01-07,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,690
+EMP0394,Məryəm Mustafayeva,Qadın,1992-11-28,2023-11-22,2025-01-29,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,620
+EMP0395,Fərid Valiyev,Kişi,1996-01-20,2023-11-18,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,920
+EMP0396,Tural Əhmədov,Kişi,1991-12-11,2024-02-08,,Aktiv,,,Logistika,Anbardar,Şəki,Digər regionlar,720
+EMP0397,Orxan Nəbiyev,Kişi,1986-11-09,2023-08-20,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Qarabağ,Digər regionlar,1760
+EMP0398,Elnur Orucov,Kişi,1989-05-06,2019-06-02,2025-05-02,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Texnik,Gəncə,Digər regionlar,1090
+EMP0399,Elnur Əhmədov,Kişi,1988-06-23,2019-11-24,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,1110
+EMP0400,Təbriz Əsgərov,Kişi,1994-02-17,2021-09-01,2026-01-28,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Satış Nümayəndəsi,Bakı,Bakı,770
+EMP0401,Anar Məmmədov,Kişi,2000-04-19,2023-10-03,,Aktiv,,,Satış,Satış Nümayəndəsi,Mil-Muğan,Digər regionlar,1000
+EMP0402,Elnur Quliyev,Kişi,1987-08-22,2020-04-30,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,690
+EMP0403,Samir Rzayev,Kişi,1990-04-25,2022-04-02,2025-05-13,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Logistika,Anbardar,Bakı,Bakı,680
+EMP0404,Orxan Hacıyev,Kişi,2003-02-09,2023-11-25,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,690
+EMP0405,Samir Süleymanov,Kişi,1993-05-29,2024-03-21,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,810
+EMP0406,Ruslan Süleymanov,Kişi,1998-05-12,2023-10-07,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1120
+EMP0407,Ayşən Hacıyeva,Qadın,1989-05-10,2016-07-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Şirvan,Digər regionlar,680
+EMP0408,Məryəm Əsgərova,Qadın,1978-03-16,2023-10-09,,Aktiv,,,İnsan Resursları,HR Meneceri,Bakı,Bakı,2230
+EMP0409,Zaur İsmayılov,Kişi,1981-04-15,2024-07-07,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,820
+EMP0410,Sevinc Əsgərova,Qadın,1996-04-23,2024-05-31,,Aktiv,,,Maliyyə,Mühasib,Mingəçevir,Digər regionlar,940
+EMP0411,Günel Abbasova,Qadın,1997-02-12,2023-04-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,810
+EMP0412,Murad Abbasov,Kişi,1984-06-10,2024-03-27,2025-05-12,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Texnik,Bakı,Bakı,890
+EMP0413,Emil Əsgərov,Kişi,1992-11-17,2022-12-21,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1380
+EMP0414,Məryəm Məmmədova,Qadın,1991-10-02,2024-06-09,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,750
+EMP0415,Vüqar Əhmədov,Kişi,1987-08-11,2024-07-06,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,690
+EMP0416,Günel Məmmədova,Qadın,1986-09-13,2024-07-29,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1690
+EMP0417,Elnur İsmayılov,Kişi,1987-09-27,2024-07-18,,Aktiv,,,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,690
+EMP0418,Aysel Məmmədova,Qadın,1998-06-11,2022-08-17,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,2370
+EMP0419,Kamran Süleymanov,Kişi,1986-02-15,2024-02-15,,Aktiv,,,Müştəri Xidmətləri,Operator,Şəki,Digər regionlar,610
+EMP0420,Zaur Qasımov,Kişi,1987-08-02,2022-12-25,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,1000
+EMP0421,Rəşad Səfərov,Kişi,1997-02-17,2024-04-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Quba,Digər regionlar,960
+EMP0422,Tural Hacıyev,Kişi,1992-03-24,2019-07-17,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,850
+EMP0423,Zümrüd Cəfərova,Qadın,1994-01-30,2024-04-30,2025-05-16,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Logistika,Sürücü-Ekspeditor,Naxçıvan,Digər regionlar,680
+EMP0424,Kamran Əhmədov,Kişi,1986-06-03,2021-12-23,,Aktiv,,,Maliyyə,Mühasib,Lənkəran,Digər regionlar,1350
+EMP0425,Mahir Mustafayev,Kişi,1987-07-28,2018-12-25,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Şəki,Digər regionlar,750
+EMP0426,Rövşən Mustafayev,Kişi,1990-01-10,2022-01-20,2025-11-20,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,QA Mühəndis,Mil-Muğan,Digər regionlar,1520
+EMP0427,Ayşən Babayeva,Qadın,1986-06-28,2022-07-06,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1560
+EMP0428,Sənan Quliyev,Kişi,1998-10-21,2023-06-26,2026-03-14,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Logistika Koordinatoru,Bakı,Bakı,1070
+EMP0429,Əli Süleymanov,Kişi,1987-09-09,2024-04-17,,Aktiv,,,Logistika,Anbardar,Mingəçevir,Digər regionlar,670
+EMP0430,Vüqar Həsənov,Kişi,1986-12-17,2022-06-12,2026-01-25,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Maliyyə,Maliyyə Analitiki,Quba,Digər regionlar,1560
+EMP0431,Eldar Hacıyev,Kişi,1990-04-25,2024-05-21,2024-10-29,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,830
+EMP0432,Aytən Məmmədova,Qadın,1982-03-27,2017-04-09,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Mingəçevir,Digər regionlar,1990
+EMP0433,Fidan Valiyeva,Qadın,1999-01-18,2022-10-23,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Sumqayıt,Abşeron-Sumqayıt,920
+EMP0434,Zaur Əliyev,Kişi,1983-09-08,2022-03-15,2025-01-16,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,İnformasiya Texnologiyaları,Sistem Administratoru,Sumqayıt,Abşeron-Sumqayıt,1660
+EMP0435,Sənan Nəbiyev,Kişi,1992-10-29,2023-05-06,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,870
+EMP0436,Təbriz Yusifov,Kişi,1994-02-14,2022-03-27,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Naxçıvan,Digər regionlar,1050
+EMP0437,Aynur Babayeva,Qadın,1987-11-22,2021-08-29,2025-02-11,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,660
+EMP0438,Rövşən Qasımov,Kişi,1998-08-31,2024-04-25,2024-12-25,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Logistika,Sürücü-Ekspeditor,Naxçıvan,Digər regionlar,690
+EMP0439,Cavid Bayramov,Kişi,1988-12-03,2020-05-19,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,2030
+EMP0440,Ruslan Babayev,Kişi,2001-06-20,2024-05-07,,Aktiv,,,Maliyyə,Mühasib,Gəncə,Digər regionlar,1080
+EMP0441,Mahir Abbasov,Kişi,1990-03-05,2024-02-25,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,870
+EMP0442,Sevda Orucova,Qadın,1982-01-22,2023-06-21,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,990
+EMP0443,Cavid Orucov,Kişi,1989-10-16,2024-08-26,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Abşeron,Abşeron-Sumqayıt,650
+EMP0444,Nigar Hacıyeva,Qadın,2000-11-30,2022-07-24,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1170
+EMP0445,Sevda Cəfərova,Qadın,1997-06-04,2024-09-03,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,890
+EMP0446,Məryəm Babayeva,Qadın,1990-02-14,2023-10-15,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,1840
+EMP0447,Zaur Abbasov,Kişi,1989-04-03,2023-04-01,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1270
+EMP0448,Kamran Valiyev,Kişi,1997-11-24,2022-12-19,2025-07-28,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Marketinq,Marketinq Mütəxəssisi,Gəncə,Digər regionlar,1080
+EMP0449,Röya Yusifova,Qadın,1991-07-18,2019-05-02,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Şəki,Digər regionlar,1510
+EMP0450,Fidan Quliyeva,Qadın,2002-01-22,2023-11-07,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,1450
+EMP0451,Elvin Əsgərov,Kişi,1995-09-26,2019-09-04,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,880
+EMP0452,Günel Abbasova,Qadın,1999-08-02,2021-07-10,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1440
+EMP0453,Rauf Yusifov,Kişi,1984-12-31,2015-03-09,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,700
+EMP0454,Kənul Nəbiyeva,Qadın,1996-05-22,2023-08-19,,Aktiv,,,Marketinq,SMM Meneceri,Gəncə,Digər regionlar,1380
+EMP0455,Əli Abbasov,Kişi,1990-05-14,2019-06-29,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1290
+EMP0456,Ruslan Rzayev,Kişi,1997-04-07,2024-01-28,,Aktiv,,,Maliyyə,Baş Mühasib,Bakı,Bakı,2440
+EMP0457,Zaur Yusifov,Kişi,1993-03-02,2023-11-16,2025-09-23,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Nümayəndəsi,Bakı,Bakı,730
+EMP0458,Aynur Qasımova,Qadın,1995-12-10,2020-10-08,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1580
+EMP0459,Günel Abbasova,Qadın,1994-02-03,2022-12-30,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,590
+EMP0460,Sənan Quliyev,Kişi,1989-02-03,2024-06-18,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1070
+EMP0461,Ruslan Nəbiyev,Kişi,1993-02-13,2021-08-07,2024-12-14,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Logistika,Anbardar,Bakı,Bakı,710
+EMP0462,Orxan Kərimov,Kişi,1987-12-18,2015-02-11,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,890
+EMP0463,Elvin Hüseynov,Kişi,1989-08-31,2021-01-14,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,760
+EMP0464,Vüqar Babayev,Kişi,1977-02-20,2020-04-18,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,2240
+EMP0465,Rauf Nəbiyev,Kişi,1990-07-14,2023-12-24,,Aktiv,,,Marketinq,SMM Meneceri,Sumqayıt,Abşeron-Sumqayıt,1340
+EMP0466,Xanım Əliyeva,Qadın,1988-03-28,2020-02-05,2024-10-15,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Hüquq,Hüquqşünas,Bakı,Bakı,1530
+EMP0467,Lalə Babayeva,Qadın,2003-11-06,2024-02-23,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,1110
+EMP0468,Rövşən Cəfərov,Kişi,1984-01-23,2021-06-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,1190
+EMP0469,Təbriz Hacıyev,Kişi,1990-12-20,2021-06-21,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,740
+EMP0470,Əli Hüseynov,Kişi,1979-11-30,2021-05-24,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Sumqayıt,Abşeron-Sumqayıt,1760
+EMP0471,Ruslan Hüseynov,Kişi,1988-07-18,2015-03-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1080
+EMP0472,Murad Qasımov,Kişi,1992-12-18,2022-04-23,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,870
+EMP0473,Məryəm İsmayılova,Qadın,1998-12-22,2023-01-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,700
+EMP0474,Fərid Qasımov,Kişi,1990-03-28,2023-10-03,2025-03-20,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,790
+EMP0475,Elnur Həsənov,Kişi,1978-02-25,2015-03-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Mil-Muğan,Digər regionlar,950
+EMP0476,Kənul Babayeva,Qadın,1983-11-16,2021-05-22,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,870
+EMP0477,Günel Hacıyeva,Qadın,1991-04-04,2021-05-31,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1410
+EMP0478,Fərid İsmayılov,Kişi,1986-02-21,2021-12-26,2025-08-08,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,1070
+EMP0479,Lalə Bayramova,Qadın,1992-12-08,2023-07-26,2025-06-04,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Satış,Satış Nümayəndəsi,Bakı,Bakı,690
+EMP0480,Ülviyyə Yusifova,Qadın,1995-10-25,2022-10-17,,Aktiv,,,Satış,Satış Meneceri,Gəncə,Digər regionlar,1740
+EMP0481,Murad Bayramov,Kişi,1999-09-12,2019-12-06,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1810
+EMP0482,Kənan Hüseynov,Kişi,1979-04-11,2021-01-12,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,720
+EMP0483,Rauf Səfərov,Kişi,1996-09-14,2023-11-19,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1860
+EMP0484,Təbriz Qasımov,Kişi,1993-10-02,2017-12-09,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,1040
+EMP0485,Samir Hacıyev,Kişi,1984-11-04,2020-12-13,,Aktiv,,,Logistika,Logistika Koordinatoru,Sumqayıt,Abşeron-Sumqayıt,1300
+EMP0486,Günel Hüseynova,Qadın,1988-04-12,2018-03-16,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,1000
+EMP0487,Rövşən Abbasov,Kişi,1988-05-29,2023-03-06,2025-12-12,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,İstehsalat,İstehsalat Mühəndisi,Sumqayıt,Abşeron-Sumqayıt,2170
+EMP0488,Məryəm Əhmədova,Qadın,1999-09-10,2024-08-03,2025-02-18,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Texnik,Bakı,Bakı,1100
+EMP0489,Əfsanə Hacıyeva,Qadın,1982-02-11,2023-07-22,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2420
+EMP0490,Elnur Quliyev,Kişi,1995-01-09,2022-11-27,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1730
+EMP0491,Aysel Hacıyeva,Qadın,1990-04-19,2021-06-03,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Şirvan,Digər regionlar,1540
+EMP0492,Ceyhun Əsgərov,Kişi,1977-11-23,2020-09-21,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1680
+EMP0493,Elnur Orucov,Kişi,1999-02-27,2022-12-05,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1110
+EMP0494,Xanım Həsənova,Qadın,1998-01-12,2022-02-01,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,700
+EMP0495,Sənan Rzayev,Kişi,1996-01-07,2016-12-14,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Gəncə,Digər regionlar,1070
+EMP0496,Samir Səfərov,Kişi,1992-04-14,2024-03-08,,Aktiv,,,Logistika,Anbardar,Şəki,Digər regionlar,660
+EMP0497,Orxan Bayramov,Kişi,1995-05-04,2023-06-14,2025-04-17,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Sürücü-Ekspeditor,Şəki,Digər regionlar,760
+EMP0498,Nübar Mustafayeva,Qadın,1991-11-06,2024-06-17,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1460
+EMP0499,Ceyhun Məmmədov,Kişi,1984-04-22,2024-06-14,2025-10-07,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,İstehsalat Mühəndisi,Abşeron,Abşeron-Sumqayıt,1470
+EMP0500,Samir Orucov,Kişi,1990-07-07,2020-12-30,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,990
+EMP0501,Cavid Orucov,Kişi,1989-02-23,2017-07-28,,Aktiv,,,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,670
+EMP0502,Elvin Əliyev,Kişi,1999-11-16,2020-03-27,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,900
+EMP0503,Eldar Qasımov,Kişi,1981-07-22,2020-11-25,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Şirvan,Digər regionlar,2130
+EMP0504,Elnur Orucov,Kişi,1996-03-20,2016-06-11,2025-01-04,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Meneceri,Sumqayıt,Abşeron-Sumqayıt,1790
+EMP0505,Xanım Yusifova,Qadın,1985-07-09,2015-03-13,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1260
+EMP0506,Rəşad Əliyev,Kişi,2000-12-01,2024-05-03,2024-12-07,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,790
+EMP0507,Kənul Cəfərova,Qadın,1976-08-21,2023-03-23,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,1130
+EMP0508,Türkan Cəfərova,Qadın,1996-03-26,2022-06-17,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,560
+EMP0509,Tural Quliyev,Kişi,1996-08-25,2023-10-31,2025-09-24,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Müştəri Xidmətləri,Operator,Mil-Muğan,Digər regionlar,550
+EMP0510,Fidan Valiyeva,Qadın,1993-10-13,2021-05-30,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,630
+EMP0511,Məryəm Məmmədova,Qadın,1977-11-20,2018-07-18,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1730
+EMP0512,Samir Əsgərov,Kişi,1989-08-11,2023-05-17,2026-02-21,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,700
+EMP0513,Sevinc Bayramova,Qadın,1990-12-24,2023-03-20,,Aktiv,,,Maliyyə,Mühasib,Gəncə,Digər regionlar,1220
+EMP0514,Rəşad Babayev,Kişi,1979-04-11,2017-06-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,890
+EMP0515,Vüqar Nəbiyev,Kişi,1983-08-04,2017-01-02,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,800
+EMP0516,Gülnar Nəbiyeva,Qadın,2004-05-03,2024-06-14,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Gəncə,Digər regionlar,860
+EMP0517,Ceyhun Məmmədov,Kişi,1990-01-14,2019-03-17,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Gəncə,Digər regionlar,1650
+EMP0518,Ceyhun İsmayılov,Kişi,1991-01-22,2020-02-15,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Gəncə,Digər regionlar,850
+EMP0519,Rövşən Mustafayev,Kişi,1996-02-06,2024-02-27,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,640
+EMP0520,Kənul Həsənova,Qadın,1977-10-11,2020-07-01,,Aktiv,,,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,880
+EMP0521,Samir Orucov,Kişi,1993-08-17,2023-05-27,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,890
+EMP0522,Samir Mustafayev,Kişi,1992-05-22,2021-04-06,,Aktiv,,,Logistika,Logistika Koordinatoru,Lənkəran,Digər regionlar,1060
+EMP0523,Nübar Abbasova,Qadın,1998-02-28,2023-11-20,2025-02-11,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,680
+EMP0524,Cavid Orucov,Kişi,1998-02-22,2022-11-03,2025-08-02,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Meneceri,Bakı,Bakı,1230
+EMP0525,Nigar Yusifova,Qadın,1987-03-25,2024-09-21,2025-01-19,Ayrılıb,Könüllü,İş yükü və yorğunluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP0526,Eldar Nəbiyev,Kişi,1990-03-02,2023-11-27,2025-10-26,Ayrılıb,Könüllü,Rəhbərlə münasibət,İstehsalat,İstehsalat Operatoru,Abşeron,Abşeron-Sumqayıt,690
+EMP0527,Elvin Əsgərov,Kişi,1990-06-01,2021-09-08,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1130
+EMP0528,Aysel Babayeva,Qadın,1991-11-05,2020-08-16,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1280
+EMP0529,Fidan Bayramova,Qadın,1991-05-26,2016-11-08,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Lənkəran,Digər regionlar,960
+EMP0530,Aytən Babayeva,Qadın,1994-09-03,2024-07-28,2025-06-10,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,610
+EMP0531,Nicat Cəfərov,Kişi,1991-02-23,2019-05-14,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,680
+EMP0532,Zümrüd Cəfərova,Qadın,1994-07-23,2020-03-30,,Aktiv,,,Maliyyə,Baş Mühasib,Bakı,Bakı,2860
+EMP0533,Ceyhun Məmmədov,Kişi,1989-12-11,2024-06-26,2025-10-09,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Marketinq,SMM Meneceri,Bakı,Bakı,1240
+EMP0534,Aysel Əsgərova,Qadın,1996-04-14,2020-11-16,2025-09-22,Ayrılıb,Könüllü,Rəhbərlə münasibət,İnformasiya Texnologiyaları,IT Dəstək,Sumqayıt,Abşeron-Sumqayıt,860
+EMP0535,Əli Quliyev,Kişi,1990-05-20,2021-06-08,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Şirvan,Digər regionlar,2170
+EMP0536,Kamran İsmayılov,Kişi,1989-07-22,2023-08-15,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1090
+EMP0537,Mahir Orucov,Kişi,1992-11-29,2023-04-06,2026-06-04,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Şəki,Digər regionlar,710
+EMP0538,Ruslan Hacıyev,Kişi,1997-05-01,2024-05-05,2025-04-19,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,730
+EMP0539,Orxan Abbasov,Kişi,1995-06-02,2023-07-19,,Aktiv,,,İnsan Resursları,HR Meneceri,Bakı,Bakı,2520
+EMP0540,Nərmin Əliyeva,Qadın,1995-11-07,2022-12-28,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,1000
+EMP0541,Anar Əliyev,Kişi,1998-09-08,2022-04-09,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Lənkəran,Digər regionlar,1510
+EMP0542,Lalə Hüseynova,Qadın,1994-03-02,2024-05-10,2024-11-03,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,640
+EMP0543,Səbinə Abbasova,Qadın,1985-02-24,2019-01-15,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,880
+EMP0544,Zaur Qasımov,Kişi,1999-12-05,2021-07-14,,Aktiv,,,Müştəri Xidmətləri,Operator,Mingəçevir,Digər regionlar,720
+EMP0545,Orxan Əliyev,Kişi,1983-03-22,2019-06-01,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,770
+EMP0546,Əli Abbasov,Kişi,1980-10-14,2016-07-09,2024-10-01,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Quba,Digər regionlar,1030
+EMP0547,Eldar Yusifov,Kişi,1991-10-04,2023-06-26,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,700
+EMP0548,Nərmin Qasımova,Qadın,1994-10-17,2024-02-28,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,640
+EMP0549,Eldar Kərimov,Kişi,1991-08-18,2020-04-15,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Quba,Digər regionlar,980
+EMP0550,Fərid Əliyev,Kişi,2000-01-16,2023-01-13,2025-09-22,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,780
+EMP0551,Fərid Süleymanov,Kişi,1996-01-08,2023-12-19,,Aktiv,,,Hüquq,Hüquqşünas,Mil-Muğan,Digər regionlar,1680
+EMP0552,Sənan Quliyev,Kişi,1994-01-23,2023-06-21,2024-10-11,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,İstehsalat,Texnik,Bakı,Bakı,1070
+EMP0553,Kənul Hacıyeva,Qadın,1996-08-31,2020-02-10,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1110
+EMP0554,Ruslan Bayramov,Kişi,2000-05-24,2020-06-06,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,870
+EMP0555,Aynur Səfərova,Qadın,1985-12-30,2018-02-01,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Abşeron,Abşeron-Sumqayıt,1830
+EMP0556,Vüqar Hüseynov,Kişi,1988-10-20,2020-05-14,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1550
+EMP0557,Aynur İsmayılova,Qadın,1990-11-16,2024-02-05,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,2160
+EMP0558,Ceyhun Valiyev,Kişi,1990-02-28,2024-09-03,2024-12-08,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Logistika,Anbardar,Lənkəran,Digər regionlar,770
+EMP0559,Sənan Süleymanov,Kişi,1992-09-14,2023-12-26,2026-04-23,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,760
+EMP0560,Emil Babayev,Kişi,1984-09-08,2023-01-13,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2690
+EMP0561,Ruslan Məmmədov,Kişi,1984-07-30,2018-04-03,2025-01-02,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Meneceri,Şəki,Digər regionlar,1390
+EMP0562,Məryəm Məmmədova,Qadın,1994-10-06,2018-04-10,2026-08-21,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Satış Meneceri,Mingəçevir,Digər regionlar,1480
+EMP0563,Samir Hüseynov,Kişi,1980-10-05,2021-06-22,2025-02-11,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,880
+EMP0564,Elvin Valiyev,Kişi,1985-09-01,2023-01-21,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,920
+EMP0565,Elnur Əsgərov,Kişi,1998-09-09,2022-10-19,,Aktiv,,,Logistika,Anbardar,Mingəçevir,Digər regionlar,670
+EMP0566,Ayşən Yusifova,Qadın,1991-03-04,2023-11-20,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,1880
+EMP0567,Ceyhun Yusifov,Kişi,1989-01-03,2024-07-12,,Aktiv,,,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,670
+EMP0568,Kamran Süleymanov,Kişi,1990-11-17,2023-10-21,2025-02-14,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Komanda Lideri,Abşeron,Abşeron-Sumqayıt,1260
+EMP0569,Əfsanə Bayramova,Qadın,1986-04-07,2024-07-18,2026-03-05,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Regional Satış Rəhbəri,Mil-Muğan,Digər regionlar,2350
+EMP0570,Nübar Orucova,Qadın,1990-05-30,2020-11-06,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2720
+EMP0571,Fərid Babayev,Kişi,1991-06-18,2023-07-17,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mil-Muğan,Digər regionlar,770
+EMP0572,Tural Cəfərov,Kişi,1984-08-26,2020-11-19,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,970
+EMP0573,Röya Kərimova,Qadın,1988-04-29,2023-10-03,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Şəki,Digər regionlar,1200
+EMP0574,Leyla Həsənova,Qadın,1979-03-31,2023-01-19,,Aktiv,,,Marketinq,Marketinq Meneceri,Gəncə,Digər regionlar,2350
+EMP0575,Səbinə Bayramova,Qadın,1989-12-23,2022-11-15,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,780
+EMP0576,Arzu Yusifova,Qadın,1994-10-05,2023-11-06,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2210
+EMP0577,Nübar Bayramova,Qadın,1996-07-24,2023-02-05,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,860
+EMP0578,Leyla Kərimova,Qadın,1987-10-08,2024-07-05,2024-11-11,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Regional Satış Rəhbəri,Quba,Digər regionlar,2690
+EMP0579,Samir Qasımov,Kişi,1989-10-27,2020-03-21,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,750
+EMP0580,Nigar Əliyeva,Qadın,1990-03-29,2024-03-26,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,770
+EMP0581,Sənan Hacıyev,Kişi,1989-06-13,2022-05-01,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,810
+EMP0582,Rəşad Babayev,Kişi,1979-08-12,2020-09-09,2025-12-18,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,850
+EMP0583,Fidan Kərimova,Qadın,1992-04-12,2022-03-23,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,900
+EMP0584,Elvin Əhmədov,Kişi,1993-06-28,2017-03-26,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Şirvan,Digər regionlar,1100
+EMP0585,Cavid Babayev,Kişi,1991-02-12,2023-06-22,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,770
+EMP0586,Murad Qasımov,Kişi,1986-12-20,2022-09-14,2025-06-22,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Meneceri,Sumqayıt,Abşeron-Sumqayıt,1280
+EMP0587,Mahir Əsgərov,Kişi,1987-06-18,2021-05-14,,Aktiv,,,Logistika,Anbardar,Şəki,Digər regionlar,820
+EMP0588,Tural Qasımov,Kişi,1996-09-04,2022-06-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,740
+EMP0589,Elnur Kərimov,Kişi,1995-07-11,2022-10-03,,Aktiv,,,Logistika,Logistika Koordinatoru,Lənkəran,Digər regionlar,1170
+EMP0590,Elvin Həsənov,Kişi,1992-06-01,2018-05-25,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1070
+EMP0591,Əfsanə Məmmədova,Qadın,1999-02-13,2020-02-08,2024-11-18,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,620
+EMP0592,Murad Məmmədov,Kişi,1997-12-31,2020-03-21,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Lənkəran,Digər regionlar,1020
+EMP0593,Rauf Nəbiyev,Kişi,1986-12-07,2019-07-15,,Aktiv,,,Satış,Regional Satış Rəhbəri,Lənkəran,Digər regionlar,2640
+EMP0594,Xanım Babayeva,Qadın,1998-05-30,2023-10-10,2024-11-05,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP0595,Nigar Rzayeva,Qadın,1985-08-05,2019-02-01,,Aktiv,,,Maliyyə,Mühasib,Abşeron,Abşeron-Sumqayıt,1090
+EMP0596,Nicat Orucov,Kişi,1982-12-28,2019-10-12,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,750
+EMP0597,Təbriz Səfərov,Kişi,1997-01-19,2024-04-28,2026-06-13,Ayrılıb,Könüllü,İş yükü və yorğunluq,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,760
+EMP0598,Ruslan Qasımov,Kişi,1996-08-05,2024-04-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,900
+EMP0599,Kamran Abbasov,Kişi,1991-12-16,2024-04-10,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,640
+EMP0600,Sevinc Rzayeva,Qadın,1984-10-22,2019-01-09,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,840
+EMP0601,Anar Bayramov,Kişi,1992-02-13,2023-04-20,2025-02-11,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,Texnik,Bakı,Bakı,1160
+EMP0602,Nicat Yusifov,Kişi,1990-08-20,2023-07-06,2026-09-20,Ayrılıb,Könüllü,Rəhbərlə münasibət,İstehsalat,Texnik,Şirvan,Digər regionlar,1160
+EMP0603,Nübar Hüseynova,Qadın,1988-06-26,2024-01-04,,Aktiv,,,Müştəri Xidmətləri,Operator,Qarabağ,Digər regionlar,560
+EMP0604,Fərid Hüseynov,Kişi,1990-08-11,2024-06-28,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,680
+EMP0605,Samir Valiyev,Kişi,1985-12-19,2021-11-04,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şirvan,Digər regionlar,780
+EMP0606,Aynur Orucova,Qadın,1990-10-13,2023-03-22,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,550
+EMP0607,Türkan İsmayılova,Qadın,2001-05-19,2023-03-11,2025-01-21,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,700
+EMP0608,Samir Yusifov,Kişi,1992-03-16,2020-06-14,2024-12-24,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,1000
+EMP0609,Ceyhun Süleymanov,Kişi,1992-04-07,2023-03-23,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1460
+EMP0610,Vüqar Hüseynov,Kişi,1995-03-08,2022-03-30,2026-02-25,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,730
+EMP0611,Aysel Bayramova,Qadın,1993-11-12,2023-02-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,690
+EMP0612,Samir Cəfərov,Kişi,1989-09-12,2021-06-12,2024-11-11,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Qarabağ,Digər regionlar,1130
+EMP0613,Nicat Abbasov,Kişi,1989-01-20,2019-05-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,620
+EMP0614,Eldar Mustafayev,Kişi,1987-10-01,2024-07-23,2025-07-08,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Logistika,Anbardar,Bakı,Bakı,710
+EMP0615,Anar Məmmədov,Kişi,1997-03-19,2020-08-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,1110
+EMP0616,Aynur Hüseynova,Qadın,1995-04-29,2022-11-15,2025-01-20,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Müştəri Xidmətləri,Operator,Bakı,Bakı,770
+EMP0617,Rəşad Məmmədov,Kişi,1980-07-17,2021-06-29,,Aktiv,,,Satış,Regional Satış Rəhbəri,Sumqayıt,Abşeron-Sumqayıt,2660
+EMP0618,Aynur Nəbiyeva,Qadın,1998-05-26,2024-07-04,2025-10-16,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Marketinq,SMM Meneceri,Bakı,Bakı,1240
+EMP0619,Fərid Rzayev,Kişi,1973-08-04,2015-03-09,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Gəncə,Digər regionlar,2080
+EMP0620,Ceyhun Valiyev,Kişi,1986-11-26,2024-04-29,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,840
+EMP0621,Zaur Kərimov,Kişi,1996-01-02,2021-08-17,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,670
+EMP0622,Rauf Nəbiyev,Kişi,1987-08-30,2017-06-23,,Aktiv,,,İstehsalat,Texnik,Gəncə,Digər regionlar,1100
+EMP0623,Fərid Orucov,Kişi,1989-09-13,2021-02-19,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1190
+EMP0624,Sevinc Nəbiyeva,Qadın,1993-05-24,2024-06-26,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,630
+EMP0625,Aynur Hacıyeva,Qadın,1999-11-01,2023-07-18,2024-12-22,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,590
+EMP0626,Fərid Nəbiyev,Kişi,1999-10-02,2024-07-27,2025-01-04,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Hüquq,Hüquqşünas,Bakı,Bakı,1770
+EMP0627,Əli Məmmədov,Kişi,1993-07-11,2022-09-21,2025-06-12,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Satış Meneceri,Lənkəran,Digər regionlar,1210
+EMP0628,Aytən Qasımova,Qadın,1993-08-05,2023-11-02,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,550
+EMP0629,Nicat Süleymanov,Kişi,1995-09-30,2022-10-25,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,3000
+EMP0630,Ülviyyə Məmmədova,Qadın,1991-09-25,2018-09-12,,Aktiv,,,Maliyyə,Mühasib,Qarabağ,Digər regionlar,1290
+EMP0631,Sevda Əsgərova,Qadın,1975-04-20,2024-04-21,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2150
+EMP0632,Cavid Rzayev,Kişi,1991-01-29,2022-07-15,2026-05-30,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Satış Nümayəndəsi,Bakı,Bakı,740
+EMP0633,Nərmin Bayramova,Qadın,1986-12-29,2019-02-10,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,710
+EMP0634,Aynur İsmayılova,Qadın,1977-02-15,2024-03-20,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1840
+EMP0635,Vüqar Nəbiyev,Kişi,1979-09-07,2022-05-25,,Aktiv,,,Satış,Regional Satış Rəhbəri,Abşeron,Abşeron-Sumqayıt,2710
+EMP0636,Sevinc Kərimova,Qadın,1992-06-30,2022-06-09,,Aktiv,,,Maliyyə,Mühasib,Naxçıvan,Digər regionlar,1370
+EMP0637,Nigar Quliyeva,Qadın,1999-11-15,2021-05-09,2026-02-08,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnsan Resursları,HR Mütəxəssisi,Lənkəran,Digər regionlar,1160
+EMP0638,Nübar Səfərova,Qadın,1990-01-30,2020-05-15,2025-05-05,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,Texnik,Bakı,Bakı,1140
+EMP0639,Fidan Babayeva,Qadın,1971-11-28,2018-06-06,2025-02-19,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Müştəri Xidmətləri,Komanda Lideri,Bakı,Bakı,1690
+EMP0640,Nərmin Əliyeva,Qadın,1995-11-21,2021-08-24,2025-03-14,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Marketinq,Marketinq Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1280
+EMP0641,Kənan İsmayılov,Kişi,1998-12-02,2024-02-07,2024-10-12,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Logistika,Sürücü-Ekspeditor,Mil-Muğan,Digər regionlar,840
+EMP0642,Vüqar Məmmədov,Kişi,1986-11-07,2024-03-26,2025-01-16,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,820
+EMP0643,Lalə Əliyeva,Qadın,2003-01-23,2023-08-10,2025-04-22,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,540
+EMP0644,Eldar Rzayev,Kişi,1996-05-24,2023-03-14,,Aktiv,,,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,660
+EMP0645,Nərmin Quliyeva,Qadın,1989-11-24,2022-03-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,720
+EMP0646,Eldar Mustafayev,Kişi,2001-11-20,2022-04-15,2025-12-16,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İstehsalat,Texnik,Bakı,Bakı,1200
+EMP0647,Emil Hacıyev,Kişi,1987-08-16,2022-01-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,710
+EMP0648,Elnur Orucov,Kişi,1996-12-21,2021-10-07,2025-09-08,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Operatoru,Gəncə,Digər regionlar,850
+EMP0649,Aynur Rzayeva,Qadın,1996-09-21,2024-06-05,2024-12-17,Ayrılıb,Qeyri-könüllü,Performans,İnsan Resursları,Rekruter,Bakı,Bakı,860
+EMP0650,Elnur Mustafayev,Kişi,1987-05-24,2017-03-07,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,2000
+EMP0651,Elvin Əsgərov,Kişi,1987-09-21,2023-07-03,2025-05-22,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,Texnik,Lənkəran,Digər regionlar,960
+EMP0652,Rəşad Əliyev,Kişi,1989-03-22,2021-06-21,,Aktiv,,,Logistika,Anbardar,Naxçıvan,Digər regionlar,640
+EMP0653,Gülnar Quliyeva,Qadın,1994-08-06,2023-04-15,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,730
+EMP0654,Mahir Orucov,Kişi,1993-05-27,2024-08-11,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0655,Rəşad Bayramov,Kişi,1987-08-14,2024-01-15,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,790
+EMP0656,Leyla Hacıyeva,Qadın,1986-07-03,2021-08-02,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0657,Tural Məmmədov,Kişi,2000-08-29,2021-06-03,2025-09-14,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,730
+EMP0658,Aytən Bayramova,Qadın,1991-05-18,2021-08-21,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1070
+EMP0659,Arzu Səfərova,Qadın,1991-02-21,2021-12-24,2026-06-04,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Satış Nümayəndəsi,Mingəçevir,Digər regionlar,1040
+EMP0660,Günel İsmayılova,Qadın,1989-09-12,2021-05-12,,Aktiv,,,Marketinq,SMM Meneceri,Sumqayıt,Abşeron-Sumqayıt,1430
+EMP0661,Murad Süleymanov,Kişi,1988-02-06,2016-07-27,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,800
+EMP0662,Nübar Mustafayeva,Qadın,2003-05-31,2023-11-05,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Mil-Muğan,Digər regionlar,800
+EMP0663,Məryəm Əsgərova,Qadın,1995-01-22,2017-02-01,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,720
+EMP0664,Səbinə Cəfərova,Qadın,1998-02-09,2018-07-01,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1120
+EMP0665,Sənan Qasımov,Kişi,1989-07-19,2017-09-01,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,1000
+EMP0666,Ayşən Nəbiyeva,Qadın,2003-07-04,2024-01-25,2026-09-03,Ayrılıb,Könüllü,Rəhbərlə münasibət,Müştəri Xidmətləri,Komanda Lideri,Bakı,Bakı,1350
+EMP0667,Orxan Nəbiyev,Kişi,1993-05-22,2021-04-12,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,800
+EMP0668,Aynur Mustafayeva,Qadın,1996-07-27,2021-08-26,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,790
+EMP0669,Nicat Valiyev,Kişi,1994-09-11,2024-03-13,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Qarabağ,Digər regionlar,1070
+EMP0670,Kənan Abbasov,Kişi,1995-03-21,2023-10-09,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Sumqayıt,Abşeron-Sumqayıt,2900
+EMP0671,Samir İsmayılov,Kişi,2003-10-24,2024-06-26,2024-12-24,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Logistika,Sürücü-Ekspeditor,Abşeron,Abşeron-Sumqayıt,670
+EMP0672,Rəşad Səfərov,Kişi,1992-07-04,2022-06-16,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,700
+EMP0673,Nigar Valiyeva,Qadın,1992-06-09,2021-09-19,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,730
+EMP0674,Zaur Babayev,Kişi,1980-11-28,2024-03-14,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1790
+EMP0675,Məryəm Kərimova,Qadın,1995-01-02,2017-08-09,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,1780
+EMP0676,Türkan Qasımova,Qadın,1994-06-08,2023-11-19,2025-09-24,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Marketinq,SMM Meneceri,Bakı,Bakı,1190
+EMP0677,Rəşad Yusifov,Kişi,1986-07-01,2021-08-10,2025-12-23,Ayrılıb,Könüllü,İş yükü və yorğunluq,Marketinq,SMM Meneceri,Bakı,Bakı,1590
+EMP0678,Kənan Nəbiyev,Kişi,1987-12-20,2023-02-15,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2930
+EMP0679,Aynur Nəbiyeva,Qadın,1989-10-04,2023-03-04,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,950
+EMP0680,Aysel Əhmədova,Qadın,1992-10-14,2024-08-27,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1370
+EMP0681,Tural Əhmədov,Kişi,1993-06-07,2015-02-12,2025-05-02,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,710
+EMP0682,Təbriz Quliyev,Kişi,1986-06-08,2023-11-04,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,3130
+EMP0683,Ruslan Rzayev,Kişi,1991-05-19,2020-12-31,2024-10-26,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,950
+EMP0684,Ülviyyə Məmmədova,Qadın,1997-04-04,2024-04-20,2025-01-12,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,790
+EMP0685,Əli Həsənov,Kişi,1988-08-23,2021-08-11,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Mil-Muğan,Digər regionlar,940
+EMP0686,Arzu Valiyeva,Qadın,2002-06-27,2024-06-29,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,680
+EMP0687,Zaur Mustafayev,Kişi,1987-06-04,2015-03-24,2026-03-17,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1530
+EMP0688,Elnur Cəfərov,Kişi,1995-09-19,2024-09-04,,Aktiv,,,İstehsalat,Texnik,Lənkəran,Digər regionlar,1140
+EMP0689,Əfsanə Səfərova,Qadın,1984-04-07,2023-05-17,2024-11-25,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Hüquq,Hüquqşünas,Bakı,Bakı,1660
+EMP0690,Ceyhun Nəbiyev,Kişi,1997-04-07,2022-07-14,2025-12-26,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,İstehsalat,Texnik,Sumqayıt,Abşeron-Sumqayıt,940
+EMP0691,Mahir Cəfərov,Kişi,1988-05-30,2021-10-22,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1580
+EMP0692,Rövşən Səfərov,Kişi,1998-01-02,2022-07-15,2026-01-23,Ayrılıb,Könüllü,İş yükü və yorğunluq,İstehsalat,İstehsalat Operatoru,Gəncə,Digər regionlar,850
+EMP0693,Murad Mustafayev,Kişi,1999-03-22,2022-03-05,2026-07-13,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,600
+EMP0694,Mahir Valiyev,Kişi,1993-08-11,2024-04-09,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,1070
+EMP0695,Kənul Süleymanova,Qadın,1997-11-09,2022-04-08,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Mil-Muğan,Digər regionlar,970
+EMP0696,Əli Nəbiyev,Kişi,2001-01-06,2021-08-11,2026-03-01,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Meneceri,Bakı,Bakı,1720
+EMP0697,Emil Həsənov,Kişi,2001-06-18,2024-02-13,2024-12-13,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,860
+EMP0698,Sevda Babayeva,Qadın,1993-04-04,2023-07-08,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2210
+EMP0699,Rövşən Babayev,Kişi,1994-02-07,2023-01-31,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,640
+EMP0700,Əfsanə Əliyeva,Qadın,1989-12-28,2023-02-19,,Aktiv,,,Satış,Regional Satış Rəhbəri,Mingəçevir,Digər regionlar,2360
+EMP0701,Sənan Rzayev,Kişi,1992-04-21,2024-03-18,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1300
+EMP0702,Mahir Süleymanov,Kişi,1995-12-09,2024-07-22,2024-12-29,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Logistika,Anbardar,Bakı,Bakı,730
+EMP0703,Xanım Babayeva,Qadın,1997-04-14,2019-01-05,2026-04-19,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Böyük Operator,Sumqayıt,Abşeron-Sumqayıt,940
+EMP0704,Ruslan Valiyev,Kişi,1990-01-17,2021-09-24,2025-06-17,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Meneceri,Bakı,Bakı,1530
+EMP0705,Röya Süleymanova,Qadın,1995-02-06,2015-03-01,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,720
+EMP0706,Sevinc Əhmədova,Qadın,1991-07-22,2020-08-01,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,2080
+EMP0707,Zümrüd Valiyeva,Qadın,1985-08-24,2015-02-11,2024-12-13,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,850
+EMP0708,Murad Məmmədov,Kişi,1997-12-18,2022-02-25,,Aktiv,,,Hüquq,Hüquqşünas,Abşeron,Abşeron-Sumqayıt,1790
+EMP0709,Rəşad Orucov,Kişi,2000-06-04,2024-07-18,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1130
+EMP0710,Günel Abbasova,Qadın,1989-12-24,2023-02-03,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Şəki,Digər regionlar,1400
+EMP0711,Günel Cəfərova,Qadın,1988-03-07,2021-06-04,2025-03-11,Ayrılıb,Qeyri-könüllü,Performans,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1110
+EMP0712,Zümrüd Valiyeva,Qadın,1983-01-23,2024-06-23,2024-12-22,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Regional Satış Rəhbəri,Quba,Digər regionlar,2190
+EMP0713,Nərmin İsmayılova,Qadın,1994-02-27,2024-01-01,2024-10-27,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,770
+EMP0714,Samir Əhmədov,Kişi,1986-06-04,2023-11-06,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1750
+EMP0715,Kənul Əhmədova,Qadın,1990-08-16,2024-06-30,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,700
+EMP0716,Tural Səfərov,Kişi,1994-02-06,2021-02-05,2026-05-27,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,730
+EMP0717,Nigar Hüseynova,Qadın,1990-09-01,2018-07-09,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Gəncə,Digər regionlar,1710
+EMP0718,Elvin Əhmədov,Kişi,2000-08-16,2023-12-22,2025-05-11,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Bakı,Bakı,940
+EMP0719,Tural Yusifov,Kişi,1995-05-31,2020-08-06,2025-04-17,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,810
+EMP0720,Təbriz Orucov,Kişi,1986-03-03,2020-05-08,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2980
+EMP0721,Aysel Məmmədova,Qadın,1988-03-29,2022-06-20,2025-05-21,Ayrılıb,Könüllü,Xaricə miqrasiya,İnsan Resursları,HR Mütəxəssisi,Mingəçevir,Digər regionlar,1170
+EMP0722,Cavid Valiyev,Kişi,1998-01-24,2022-07-22,,Aktiv,,,Logistika,Logistika Koordinatoru,Abşeron,Abşeron-Sumqayıt,1300
+EMP0723,Elnur Rzayev,Kişi,1988-04-23,2017-08-20,2025-06-10,Ayrılıb,Könüllü,İş yükü və yorğunluq,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,820
+EMP0724,Mahir Kərimov,Kişi,1982-03-14,2018-07-05,2025-12-19,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,950
+EMP0725,Elvin Süleymanov,Kişi,1986-11-19,2019-03-25,,Aktiv,,,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,1170
+EMP0726,Murad Quliyev,Kişi,1997-02-08,2023-09-09,,Aktiv,,,İstehsalat,Texnik,Şirvan,Digər regionlar,1040
+EMP0727,Murad Mustafayev,Kişi,1989-06-30,2022-04-25,2025-06-01,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,860
+EMP0728,Rövşən Əliyev,Kişi,1985-01-27,2022-04-29,,Aktiv,,,Satış,Regional Satış Rəhbəri,Mingəçevir,Digər regionlar,2310
+EMP0729,Əli Əhmədov,Kişi,1998-08-15,2021-07-20,2024-11-24,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,840
+EMP0730,Tural Babayev,Kişi,1983-05-28,2021-01-25,,Aktiv,,,İstehsalat,Növbə Rəisi,Şəki,Digər regionlar,2260
+EMP0731,Nicat Əliyev,Kişi,1993-03-26,2020-10-23,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,760
+EMP0732,Təbriz Abbasov,Kişi,1994-12-27,2023-03-03,2026-08-07,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Satış Nümayəndəsi,Bakı,Bakı,1010
+EMP0733,Ceyhun Quliyev,Kişi,1985-04-12,2020-12-21,,Aktiv,,,İstehsalat,Növbə Rəisi,Sumqayıt,Abşeron-Sumqayıt,2150
+EMP0734,Nərmin Qasımova,Qadın,1988-12-31,2022-02-24,2025-07-11,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Logistika,Anbardar,Bakı,Bakı,780
+EMP0735,Nicat Əhmədov,Kişi,1991-05-15,2020-10-08,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Mil-Muğan,Digər regionlar,1980
+EMP0736,Aytən Əliyeva,Qadın,1993-06-20,2020-05-08,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Şirvan,Digər regionlar,1740
+EMP0737,Xanım Əsgərova,Qadın,1984-01-15,2022-09-19,,Aktiv,,,Marketinq,Marketinq Meneceri,Bakı,Bakı,2230
+EMP0738,Nübar Süleymanova,Qadın,1989-12-12,2024-03-03,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,820
+EMP0739,Zümrüd Məmmədova,Qadın,1979-07-23,2022-01-29,,Aktiv,,,Maliyyə,Baş Mühasib,Bakı,Bakı,2750
+EMP0740,Təbriz Cəfərov,Kişi,1992-08-16,2020-07-20,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,690
+EMP0741,Anar Qasımov,Kişi,1994-04-23,2022-05-04,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1120
+EMP0742,Təbriz Həsənov,Kişi,2000-02-07,2024-01-10,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Quba,Digər regionlar,2840
+EMP0743,Səbinə Abbasova,Qadın,1992-06-06,2023-03-15,,Aktiv,,,Müştəri Xidmətləri,Operator,Mil-Muğan,Digər regionlar,720
+EMP0744,Kənan Məmmədov,Kişi,1990-08-07,2015-03-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mil-Muğan,Digər regionlar,870
+EMP0745,Zümrüd Orucova,Qadın,1984-05-10,2023-07-16,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,960
+EMP0746,Ruslan Əhmədov,Kişi,1989-01-13,2018-08-13,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şirvan,Digər regionlar,800
+EMP0747,Eldar Hacıyev,Kişi,1999-07-24,2022-12-09,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Gəncə,Digər regionlar,860
+EMP0748,Ceyhun Əsgərov,Kişi,1982-03-06,2016-10-22,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,750
+EMP0749,Leyla Həsənova,Qadın,1994-10-10,2020-08-03,2025-07-06,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Şəki,Digər regionlar,710
+EMP0750,Ruslan Süleymanov,Kişi,1999-02-24,2023-07-03,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1210
+EMP0751,Sevinc Kərimova,Qadın,1991-02-25,2022-06-10,2025-08-24,Ayrılıb,Könüllü,Rəhbərlə münasibət,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,760
+EMP0752,Günel Yusifova,Qadın,1990-02-14,2024-04-25,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,890
+EMP0753,Təbriz Kərimov,Kişi,1983-08-01,2016-07-01,,Aktiv,,,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,900
+EMP0754,Nigar Məmmədova,Qadın,1998-05-09,2021-06-26,2024-12-18,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,IT Dəstək,Gəncə,Digər regionlar,850
+EMP0755,Rövşən Süleymanov,Kişi,1985-03-12,2021-01-07,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,920
+EMP0756,Samir Cəfərov,Kişi,1994-09-02,2023-06-09,2025-07-23,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İstehsalat,Texnik,Bakı,Bakı,1000
+EMP0757,Cavid Əliyev,Kişi,1989-08-11,2015-03-04,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,1100
+EMP0758,Aytən Səfərova,Qadın,1994-01-21,2022-12-23,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Şirvan,Digər regionlar,900
+EMP0759,Sənan Süleymanov,Kişi,1995-06-21,2018-04-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,1180
+EMP0760,Emil Cəfərov,Kişi,2003-07-06,2024-07-04,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,750
+EMP0761,Təbriz Kərimov,Kişi,1992-05-29,2023-05-26,,Aktiv,,,Marketinq,Marketinq Meneceri,Mingəçevir,Digər regionlar,2130
+EMP0762,Nərmin İsmayılova,Qadın,1987-12-27,2022-09-25,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,910
+EMP0763,Ayşən Əliyeva,Qadın,1983-03-04,2016-04-24,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,760
+EMP0764,Rauf Süleymanov,Kişi,1991-07-12,2024-04-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,630
+EMP0765,Zaur Nəbiyev,Kişi,2000-01-28,2024-06-15,2024-10-31,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Bakı,Bakı,630
+EMP0766,Günel Əhmədova,Qadın,1996-01-23,2024-08-07,,Aktiv,,,Maliyyə,Mühasib,Sumqayıt,Abşeron-Sumqayıt,1090
+EMP0767,Nigar Babayeva,Qadın,1998-05-10,2022-11-29,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1620
+EMP0768,Nicat Əliyev,Kişi,1988-08-23,2016-09-13,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Mingəçevir,Digər regionlar,3610
+EMP0769,Cavid Hüseynov,Kişi,1990-10-27,2023-09-03,2025-12-07,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,770
+EMP0770,Nicat Mustafayev,Kişi,1992-10-13,2021-09-06,2025-07-07,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,750
+EMP0771,Fərid Bayramov,Kişi,1996-10-25,2020-03-08,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2390
+EMP0772,Zaur Süleymanov,Kişi,1995-07-06,2020-10-01,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Qarabağ,Digər regionlar,1860
+EMP0773,Vüqar Səfərov,Kişi,1995-04-08,2021-05-27,,Aktiv,,,Satış,Satış Meneceri,Gəncə,Digər regionlar,1030
+EMP0774,Aynur Kərimova,Qadın,1986-07-09,2023-12-04,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,990
+EMP0775,Zümrüd Rzayeva,Qadın,1993-10-30,2024-02-16,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,1030
+EMP0776,Röya Rzayeva,Qadın,1993-06-20,2020-03-13,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2350
+EMP0777,Zaur Səfərov,Kişi,1999-11-24,2020-03-22,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,740
+EMP0778,Vüqar Kərimov,Kişi,1982-09-13,2022-04-18,2025-01-26,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,İstehsalat Mühəndisi,Abşeron,Abşeron-Sumqayıt,1990
+EMP0779,Nicat Kərimov,Kişi,1993-12-07,2024-06-20,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,900
+EMP0780,Orxan Həsənov,Kişi,1996-01-29,2023-09-24,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1260
+EMP0781,Vüqar Mustafayev,Kişi,1996-02-11,2024-10-29,,Aktiv,,,Maliyyə,Mühasib,Şəki,Digər regionlar,1150
+EMP0782,Sevda Hacıyeva,Qadın,2000-04-01,2024-10-30,2026-09-09,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Meneceri,Bakı,Bakı,1560
+EMP0783,Səbinə Hacıyeva,Qadın,1984-02-07,2024-10-11,,Aktiv,,,İnsan Resursları,HR Meneceri,Bakı,Bakı,2410
+EMP0784,Elvin Cəfərov,Kişi,1996-03-16,2024-10-15,,Aktiv,,,Logistika,Anbardar,Lənkəran,Digər regionlar,780
+EMP0785,Xanım Babayeva,Qadın,2003-10-07,2024-10-01,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1190
+EMP0786,Əfsanə Əliyeva,Qadın,2002-09-06,2024-10-15,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1130
+EMP0787,Samir Quliyev,Kişi,1993-01-31,2024-10-05,2025-01-04,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Naxçıvan,Digər regionlar,630
+EMP0788,Səbinə Süleymanova,Qadın,1997-06-02,2024-10-05,,Aktiv,,,Maliyyə,Mühasib,Şəki,Digər regionlar,1030
+EMP0789,Nicat Hacıyev,Kişi,1993-02-07,2024-10-09,2025-08-11,Ayrılıb,Qeyri-könüllü,Performans,Logistika,Logistika Koordinatoru,Sumqayıt,Abşeron-Sumqayıt,1080
+EMP0790,Elnur Əliyev,Kişi,2002-02-09,2024-10-25,2025-02-04,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,830
+EMP0791,Sevinc Əhmədova,Qadın,1996-03-13,2024-10-29,2024-12-11,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Nümayəndəsi,Şəki,Digər regionlar,870
+EMP0792,Ruslan Quliyev,Kişi,1990-04-13,2024-10-18,2026-01-06,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,770
+EMP0793,Rauf Mustafayev,Kişi,1995-04-19,2024-10-12,2025-06-01,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Meneceri,Abşeron,Abşeron-Sumqayıt,1190
+EMP0794,Eldar Mustafayev,Kişi,1982-05-01,2024-10-19,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Abşeron,Abşeron-Sumqayıt,1740
+EMP0795,Eldar İsmayılov,Kişi,1999-10-27,2024-10-30,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Qarabağ,Digər regionlar,1210
+EMP0796,Kamran Səfərov,Kişi,1992-01-16,2024-10-15,,Aktiv,,,Satış,Satış Meneceri,Lənkəran,Digər regionlar,1150
+EMP0797,Ruslan Süleymanov,Kişi,1992-09-11,2024-10-07,2025-01-22,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,IT Dəstək,Sumqayıt,Abşeron-Sumqayıt,830
+EMP0798,Fərid Əsgərov,Kişi,1984-06-13,2024-10-27,,Aktiv,,,Maliyyə,Baş Mühasib,Bakı,Bakı,2460
+EMP0799,Emil Abbasov,Kişi,1991-04-20,2024-10-22,2025-01-02,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,620
+EMP0800,Rauf Babayev,Kişi,1991-06-30,2024-11-20,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Sumqayıt,Abşeron-Sumqayıt,2400
+EMP0801,Lalə Yusifova,Qadın,1983-12-22,2024-11-21,,Aktiv,,,İnsan Resursları,HR Meneceri,Bakı,Bakı,2040
+EMP0802,Elnur Abbasov,Kişi,1991-03-08,2024-11-08,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,880
+EMP0803,Əli İsmayılov,Kişi,1984-12-12,2024-11-29,2025-05-20,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Meneceri,Bakı,Bakı,1000
+EMP0804,Aynur Yusifova,Qadın,1995-06-29,2024-11-14,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,1060
+EMP0805,Aysel Quliyeva,Qadın,1991-08-10,2024-11-05,,Aktiv,,,İstehsalat,Növbə Rəisi,Mingəçevir,Digər regionlar,1840
+EMP0806,Lalə Valiyeva,Qadın,1996-02-26,2024-11-05,,Aktiv,,,Satış,Satış Nümayəndəsi,Şəki,Digər regionlar,880
+EMP0807,Günel Bayramova,Qadın,1990-02-19,2024-11-13,,Aktiv,,,Müştəri Xidmətləri,Operator,Şəki,Digər regionlar,690
+EMP0808,Səbinə Səfərova,Qadın,1995-06-02,2024-11-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Mil-Muğan,Digər regionlar,910
+EMP0809,Sənan Orucov,Kişi,1999-03-22,2024-11-01,2025-04-06,Ayrılıb,Könüllü,Başqa şəhərə köçmə,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,680
+EMP0810,Elvin Əhmədov,Kişi,1995-07-29,2024-11-06,2025-10-19,Ayrılıb,Könüllü,İş yükü və yorğunluq,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,610
+EMP0811,Emil Babayev,Kişi,2000-05-29,2024-11-26,,Aktiv,,,Logistika,Anbardar,Sumqayıt,Abşeron-Sumqayıt,650
+EMP0812,Aynur Mustafayeva,Qadın,1993-01-26,2024-11-23,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,710
+EMP0813,Orxan Hüseynov,Kişi,1996-06-21,2024-11-13,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1260
+EMP0814,Fidan Yusifova,Qadın,1997-09-16,2024-11-19,2025-06-05,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnsan Resursları,Rekruter,Gəncə,Digər regionlar,910
+EMP0815,Mahir Nəbiyev,Kişi,1991-08-19,2024-11-19,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Naxçıvan,Digər regionlar,740
+EMP0816,Elnur Əsgərov,Kişi,1994-03-21,2024-11-08,2026-05-02,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2490
+EMP0817,Kənan Rzayev,Kişi,1995-08-29,2024-12-18,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Şirvan,Digər regionlar,1600
+EMP0818,Fərid Əliyev,Kişi,2004-03-11,2024-12-25,2025-06-02,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Satış,Satış Meneceri,Bakı,Bakı,1110
+EMP0819,Ülviyyə Nəbiyeva,Qadın,1993-04-22,2024-12-11,2025-08-24,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,620
+EMP0820,Sevinc Süleymanova,Qadın,2000-10-07,2024-12-13,2025-04-01,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,590
+EMP0821,Anar Əliyev,Kişi,2004-01-14,2024-12-19,2026-07-17,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Şirvan,Digər regionlar,620
+EMP0822,Ruslan Məmmədov,Kişi,2002-12-01,2024-12-22,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,890
+EMP0823,Fərid Orucov,Kişi,1995-11-29,2024-12-10,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Abşeron,Abşeron-Sumqayıt,1730
+EMP0824,Məryəm Məmmədova,Qadın,1994-02-16,2024-12-20,2025-01-12,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Bakı,Bakı,570
+EMP0825,Rövşən Mustafayev,Kişi,1988-12-17,2024-12-29,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,590
+EMP0826,Zaur Bayramov,Kişi,2003-02-18,2024-12-22,,Aktiv,,,İstehsalat,Texnik,Sumqayıt,Abşeron-Sumqayıt,1140
+EMP0827,Cavid Valiyev,Kişi,1987-01-25,2024-12-17,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Quba,Digər regionlar,900
+EMP0828,Türkan Mustafayeva,Qadın,1997-05-08,2024-12-25,2025-10-10,Ayrılıb,Könüllü,Rəhbərlə münasibət,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP0829,Murad Qasımov,Kişi,2002-01-24,2024-12-24,2025-12-11,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Operator,Naxçıvan,Digər regionlar,550
+EMP0830,Lalə Valiyeva,Qadın,1991-01-14,2024-12-09,2025-02-14,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Nümayəndəsi,Bakı,Bakı,700
+EMP0831,Ayşən Hüseynova,Qadın,1986-08-10,2024-12-16,,Aktiv,,,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,570
+EMP0832,Kənan Məmmədov,Kişi,1997-03-10,2024-12-05,2025-05-23,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Logistika,Anbardar,Bakı,Bakı,740
+EMP0833,Elnur Mustafayev,Kişi,1987-04-17,2024-12-09,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1420
+EMP0834,Aynur Babayeva,Qadın,1998-09-12,2024-12-19,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1070
+EMP0835,Emil Kərimov,Kişi,1985-03-21,2024-12-13,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,930
+EMP0836,Röya Yusifova,Qadın,1993-03-29,2024-12-10,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1460
+EMP0837,Nərmin Səfərova,Qadın,1991-12-18,2024-12-07,2026-03-26,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1900
+EMP0838,Ayşən Nəbiyeva,Qadın,2004-09-02,2024-12-17,,Aktiv,,,Hüquq,Hüquqşünas,Bakı,Bakı,1600
+EMP0839,Samir Əhmədov,Kişi,2003-10-05,2024-12-14,2025-05-27,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Müştəri Xidmətləri,Operator,Bakı,Bakı,640
+EMP0840,Leyla Əsgərova,Qadın,1991-10-31,2025-01-06,2025-06-13,Ayrılıb,Könüllü,İş yükü və yorğunluq,Marketinq,SMM Meneceri,Bakı,Bakı,1040
+EMP0841,Rəşad Əsgərov,Kişi,1984-07-30,2025-01-22,2026-04-27,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Mühəndisi,Gəncə,Digər regionlar,1650
+EMP0842,Aytən Valiyeva,Qadın,2004-04-02,2025-01-24,2025-10-02,Ayrılıb,Könüllü,Başqa şəhərə köçmə,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,810
+EMP0843,Fərid Səfərov,Kişi,1993-12-01,2025-01-03,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Abşeron,Abşeron-Sumqayıt,1600
+EMP0844,Fidan Yusifova,Qadın,1992-06-20,2025-01-04,,Aktiv,,,Satış,Satış Meneceri,Sumqayıt,Abşeron-Sumqayıt,1630
+EMP0845,Sənan Süleymanov,Kişi,2001-05-23,2025-01-03,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1040
+EMP0846,Əli İsmayılov,Kişi,1996-11-16,2025-01-11,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1290
+EMP0847,Nərmin Rzayeva,Qadın,2000-10-04,2025-01-10,2025-04-07,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Komanda Lideri,Gəncə,Digər regionlar,1320
+EMP0848,Elnur Səfərov,Kişi,1991-12-25,2025-01-21,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Quba,Digər regionlar,1820
+EMP0849,Fərid Bayramov,Kişi,1996-11-17,2025-01-16,2025-03-16,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,680
+EMP0850,Zaur Mustafayev,Kişi,1996-09-03,2025-01-19,2025-10-20,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,840
+EMP0851,Günel Bayramova,Qadın,1996-10-28,2025-01-07,2025-09-30,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1300
+EMP0852,Rauf Yusifov,Kişi,2002-10-26,2025-01-05,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,840
+EMP0853,Aynur Cəfərova,Qadın,1998-05-04,2025-01-27,2025-03-21,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Böyük Operator,Mingəçevir,Digər regionlar,950
+EMP0854,Səbinə Həsənova,Qadın,1992-03-31,2025-01-25,2025-03-24,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Operator,Bakı,Bakı,600
+EMP0855,Zaur Babayev,Kişi,2000-03-08,2025-01-10,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,590
+EMP0856,Əli İsmayılov,Kişi,1984-05-03,2025-01-01,2025-06-22,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,İstehsalat,Növbə Rəisi,Şirvan,Digər regionlar,1720
+EMP0857,Anar Yusifov,Kişi,1993-12-15,2025-01-28,2025-12-17,Ayrılıb,Könüllü,Rəhbərlə münasibət,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2990
+EMP0858,Əfsanə Babayeva,Qadın,1988-06-01,2025-01-22,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Mingəçevir,Digər regionlar,1300
+EMP0859,Aysel Həsənova,Qadın,1994-07-22,2025-01-11,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,660
+EMP0860,Kənan Həsənov,Kişi,1992-08-14,2025-01-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Mil-Muğan,Digər regionlar,640
+EMP0861,Kamran Əsgərov,Kişi,1988-05-27,2025-01-06,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1070
+EMP0862,Eldar Babayev,Kişi,1988-09-02,2025-01-23,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,840
+EMP0863,Cavid Babayev,Kişi,1995-04-15,2025-01-14,,Aktiv,,,Maliyyə,Baş Mühasib,Gəncə,Digər regionlar,2760
+EMP0864,Əli Quliyev,Kişi,1986-12-20,2025-01-20,2026-06-23,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Marketinq,SMM Meneceri,Bakı,Bakı,1400
+EMP0865,Məryəm Əliyeva,Qadın,1997-04-06,2025-01-27,2025-04-27,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,870
+EMP0866,Fidan Hüseynova,Qadın,1988-06-17,2025-01-11,2025-09-07,Ayrılıb,Könüllü,İş yükü və yorğunluq,İstehsalat,Texnik,Şirvan,Digər regionlar,920
+EMP0867,Anar Kərimov,Kişi,1982-10-02,2025-02-24,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2430
+EMP0868,Sevda Rzayeva,Qadın,2003-05-18,2025-02-20,2025-12-11,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Mil-Muğan,Digər regionlar,530
+EMP0869,Kənan Orucov,Kişi,1987-01-03,2025-02-14,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,780
+EMP0870,Fərid Məmmədov,Kişi,1995-07-31,2025-02-03,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Abşeron,Abşeron-Sumqayıt,1020
+EMP0871,Mahir Valiyev,Kişi,1997-02-15,2025-02-13,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,720
+EMP0872,Anar İsmayılov,Kişi,1999-11-02,2025-02-05,2026-07-05,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1330
+EMP0873,Murad Valiyev,Kişi,2002-11-11,2025-02-19,2026-02-08,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Satış Nümayəndəsi,Bakı,Bakı,900
+EMP0874,Təbriz Süleymanov,Kişi,2000-01-08,2025-02-18,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,710
+EMP0875,Əfsanə Quliyeva,Qadın,1996-08-27,2025-02-09,2026-01-18,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Satış,Satış Meneceri,Sumqayıt,Abşeron-Sumqayıt,1490
+EMP0876,Nübar Rzayeva,Qadın,1985-09-24,2025-02-24,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,610
+EMP0877,Ceyhun Hacıyev,Kişi,1992-09-22,2025-02-14,2025-09-26,Ayrılıb,Könüllü,Xaricə miqrasiya,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2330
+EMP0878,Təbriz Mustafayev,Kişi,1995-07-24,2025-02-26,2025-11-22,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1270
+EMP0879,Vüqar Quliyev,Kişi,2000-03-07,2025-02-25,2025-04-17,Ayrılıb,Könüllü,Təhsilə davam,Marketinq,SMM Meneceri,Sumqayıt,Abşeron-Sumqayıt,1020
+EMP0880,Aytən Hacıyeva,Qadın,1989-04-15,2025-02-01,2025-03-26,Ayrılıb,Könüllü,Xaricə miqrasiya,Satış,Satış Nümayəndəsi,Bakı,Bakı,830
+EMP0881,Səbinə Abbasova,Qadın,1996-01-19,2025-02-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,660
+EMP0882,Rövşən Əsgərov,Kişi,1998-07-12,2025-02-18,2025-08-03,Ayrılıb,Qeyri-könüllü,Performans,İstehsalat,Texnik,Mil-Muğan,Digər regionlar,860
+EMP0883,Vüqar Hacıyev,Kişi,1981-08-26,2025-02-25,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Gəncə,Digər regionlar,1540
+EMP0884,Samir Babayev,Kişi,1993-12-08,2025-02-16,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,870
+EMP0885,Rövşən Hacıyev,Kişi,1981-10-06,2025-02-03,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Bakı,Bakı,1710
+EMP0886,Zümrüd Yusifova,Qadın,1991-05-13,2025-03-10,2025-05-05,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,630
+EMP0887,Elnur Nəbiyev,Kişi,1989-06-13,2025-03-19,2026-01-26,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1230
+EMP0888,Lalə Hüseynova,Qadın,1996-02-22,2025-03-15,,Aktiv,,,İnsan Resursları,Rekruter,Lənkəran,Digər regionlar,1010
+EMP0889,Tural Əsgərov,Kişi,1996-03-11,2025-03-17,,Aktiv,,,Müştəri Xidmətləri,Operator,Naxçıvan,Digər regionlar,560
+EMP0890,Anar Yusifov,Kişi,2001-08-02,2025-03-02,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,620
+EMP0891,Zaur Mustafayev,Kişi,1997-07-31,2025-03-09,2025-09-03,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,670
+EMP0892,Leyla Quliyeva,Qadın,2003-09-07,2025-03-18,,Aktiv,,,Maliyyə,Mühasib,Şirvan,Digər regionlar,920
+EMP0893,Elnur Mustafayev,Kişi,1991-02-06,2025-03-18,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,670
+EMP0894,Leyla İsmayılova,Qadın,1996-02-21,2025-03-17,,Aktiv,,,İstehsalat,Texnik,Abşeron,Abşeron-Sumqayıt,850
+EMP0895,Elnur Əsgərov,Kişi,1991-11-23,2025-03-15,2025-09-05,Ayrılıb,Qeyri-könüllü,Performans,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,680
+EMP0896,Gülnar Yusifova,Qadın,2000-11-17,2025-03-01,2025-09-03,Ayrılıb,Könüllü,Başqa şəhərə köçmə,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,580
+EMP0897,Kənul Babayeva,Qadın,1997-07-16,2025-03-15,,Aktiv,,,Marketinq,SMM Meneceri,Sumqayıt,Abşeron-Sumqayıt,1280
+EMP0898,Aynur Mustafayeva,Qadın,1984-11-21,2025-03-16,2026-01-12,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Marketinq,Marketinq Meneceri,Sumqayıt,Abşeron-Sumqayıt,1950
+EMP0899,Emil Hacıyev,Kişi,1997-07-18,2025-03-26,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,700
+EMP0900,Rəşad Abbasov,Kişi,1995-07-01,2025-03-19,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Quba,Digər regionlar,2090
+EMP0901,Əli İsmayılov,Kişi,1990-09-21,2025-04-02,2026-03-19,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,Növbə Rəisi,Şəki,Digər regionlar,2010
+EMP0902,Türkan Əliyeva,Qadın,2001-04-12,2025-04-18,2026-01-29,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Meneceri,Abşeron,Abşeron-Sumqayıt,1610
+EMP0903,Elnur Hüseynov,Kişi,1993-02-28,2025-04-22,,Aktiv,,,Satış,Satış Meneceri,Sumqayıt,Abşeron-Sumqayıt,1450
+EMP0904,Kənan Kərimov,Kişi,2002-08-15,2025-04-14,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1050
+EMP0905,Fərid Səfərov,Kişi,1993-11-04,2025-04-26,,Aktiv,,,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,610
+EMP0906,Vüqar Səfərov,Kişi,1994-01-07,2025-04-21,2025-10-17,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,IT Dəstək,Şəki,Digər regionlar,900
+EMP0907,Rauf Babayev,Kişi,1997-12-10,2025-04-25,2025-11-22,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,710
+EMP0908,Sənan Yusifov,Kişi,1991-02-13,2025-04-03,,Aktiv,,,Satış,Satış Meneceri,Sumqayıt,Abşeron-Sumqayıt,1140
+EMP0909,Əli Yusifov,Kişi,1992-05-04,2025-04-17,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Lənkəran,Digər regionlar,790
+EMP0910,Fərid Kərimov,Kişi,2002-04-08,2025-04-15,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,870
+EMP0911,Rəşad Mustafayev,Kişi,2003-12-13,2025-04-19,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,740
+EMP0912,Elnur Valiyev,Kişi,1992-11-03,2025-05-19,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,880
+EMP0913,Kənul İsmayılova,Qadın,1990-04-19,2025-05-01,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Sumqayıt,Abşeron-Sumqayıt,2130
+EMP0914,Samir Hacıyev,Kişi,1998-11-12,2025-05-19,2025-06-10,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,540
+EMP0915,Sənan Babayev,Kişi,1993-08-26,2025-05-12,2025-07-13,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Bakı,Bakı,780
+EMP0916,Röya Həsənova,Qadın,1992-09-05,2025-05-23,2026-03-04,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Meneceri,Bakı,Bakı,1030
+EMP0917,Orxan Abbasov,Kişi,1998-04-11,2025-05-18,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,1010
+EMP0918,Zümrüd İsmayılova,Qadın,2004-05-09,2025-05-29,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,530
+EMP0919,Ceyhun Nəbiyev,Kişi,1988-01-26,2025-05-16,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Abşeron,Abşeron-Sumqayıt,870
+EMP0920,Xanım İsmayılova,Qadın,1988-09-25,2025-05-14,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,810
+EMP0921,Anar Babayev,Kişi,1998-09-22,2025-05-04,,Aktiv,,,Logistika,Anbardar,Qarabağ,Digər regionlar,770
+EMP0922,Cavid Bayramov,Kişi,1993-12-04,2025-05-16,2026-02-14,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Operator,Bakı,Bakı,630
+EMP0923,Təbriz Bayramov,Kişi,1998-05-21,2025-05-23,,Aktiv,,,Satış,Satış Nümayəndəsi,Quba,Digər regionlar,720
+EMP0924,Emil Əhmədov,Kişi,1993-07-29,2025-05-21,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Mingəçevir,Digər regionlar,1350
+EMP0925,Arzu Qasımova,Qadın,2002-03-14,2025-05-30,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,2690
+EMP0926,Zümrüd Yusifova,Qadın,2005-02-19,2025-05-28,,Aktiv,,,Müştəri Xidmətləri,Operator,Mingəçevir,Digər regionlar,560
+EMP0927,Arzu Əsgərova,Qadın,2004-01-15,2025-05-31,2026-04-05,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Maliyyə,Maliyyə Analitiki,Bakı,Bakı,1360
+EMP0928,Vüqar Məmmədov,Kişi,1997-06-27,2025-05-29,2026-01-27,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Bakı,Bakı,870
+EMP0929,Mahir Mustafayev,Kişi,1995-04-23,2025-05-11,2025-10-10,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Texnik,Gəncə,Digər regionlar,1060
+EMP0930,Sevinc Quliyeva,Qadın,1996-03-11,2025-05-23,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,960
+EMP0931,Kənan Quliyev,Kişi,1997-01-04,2025-05-28,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,920
+EMP0932,Samir Əsgərov,Kişi,1988-01-15,2025-06-04,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1270
+EMP0933,Vüqar Bayramov,Kişi,1999-01-24,2025-06-02,,Aktiv,,,Hüquq,Hüquqşünas,Abşeron,Abşeron-Sumqayıt,1680
+EMP0934,Kənan Bayramov,Kişi,2000-05-25,2025-06-29,,Aktiv,,,Logistika,Anbardar,Şəki,Digər regionlar,610
+EMP0935,Ruslan Bayramov,Kişi,1991-08-28,2025-06-21,2026-07-30,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Meneceri,Gəncə,Digər regionlar,1090
+EMP0936,Elvin Rzayev,Kişi,1986-07-24,2025-06-23,,Aktiv,,,Müştəri Xidmətləri,Operator,Gəncə,Digər regionlar,630
+EMP0937,Mahir Quliyev,Kişi,2004-06-23,2025-06-07,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,920
+EMP0938,Nicat Abbasov,Kişi,1999-06-03,2025-06-16,2025-10-04,Ayrılıb,Könüllü,Xaricə miqrasiya,Satış,Satış Nümayəndəsi,Mil-Muğan,Digər regionlar,910
+EMP0939,Ceyhun Əhmədov,Kişi,1997-11-06,2025-06-11,2025-12-17,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,Texnik,Bakı,Bakı,1040
+EMP0940,Fərid Cəfərov,Kişi,1997-08-19,2025-06-05,,Aktiv,,,İstehsalat,Növbə Rəisi,Bakı,Bakı,2010
+EMP0941,Ayşən Qasımova,Qadın,1999-04-04,2025-06-26,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,640
+EMP0942,Murad Valiyev,Kişi,1995-12-31,2025-06-25,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,2640
+EMP0943,Fərid Səfərov,Kişi,1998-02-18,2025-06-05,2026-07-15,Ayrılıb,Könüllü,İş yükü və yorğunluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,700
+EMP0944,Məryəm Valiyeva,Qadın,1992-02-06,2025-06-20,2025-10-12,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,910
+EMP0945,Aytən Bayramova,Qadın,2001-02-06,2025-06-23,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP0946,Murad Yusifov,Kişi,1994-09-23,2025-06-26,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1290
+EMP0947,Fidan Həsənova,Qadın,1990-11-14,2025-06-16,2026-07-15,Ayrılıb,Qeyri-könüllü,Performans,İnsan Resursları,Rekruter,Quba,Digər regionlar,1030
+EMP0948,Murad Məmmədov,Kişi,1996-10-16,2025-06-04,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,660
+EMP0949,Rəşad Bayramov,Kişi,1999-10-21,2025-07-15,2026-06-25,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,700
+EMP0950,Xanım Məmmədova,Qadın,1993-07-04,2025-07-05,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Şirvan,Digər regionlar,3030
+EMP0951,Orxan Rzayev,Kişi,1982-09-11,2025-07-12,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2640
+EMP0952,Təbriz Səfərov,Kişi,1996-04-14,2025-07-07,2026-09-20,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İstehsalat,Texnik,Bakı,Bakı,870
+EMP0953,Ayşən Süleymanova,Qadın,2000-04-14,2025-07-05,2026-03-23,Ayrılıb,Qeyri-könüllü,Performans,Marketinq,SMM Meneceri,Bakı,Bakı,1390
+EMP0954,Nigar Abbasova,Qadın,2002-01-23,2025-07-09,,Aktiv,,,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,830
+EMP0955,Arzu Babayeva,Qadın,1987-11-18,2025-07-29,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Sumqayıt,Abşeron-Sumqayıt,1680
+EMP0956,Kamran Quliyev,Kişi,1992-12-29,2025-07-11,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mil-Muğan,Digər regionlar,660
+EMP0957,Murad Babayev,Kişi,1991-11-30,2025-07-05,2026-08-03,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Maliyyə,Mühasib,Bakı,Bakı,1210
+EMP0958,Məryəm Yusifova,Qadın,1995-09-20,2025-07-13,,Aktiv,,,Maliyyə,Mühasib,Lənkəran,Digər regionlar,1280
+EMP0959,Ceyhun Həsənov,Kişi,2000-03-04,2025-07-03,2025-10-10,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Logistika,Sürücü-Ekspeditor,Lənkəran,Digər regionlar,680
+EMP0960,Röya Hüseynova,Qadın,1996-05-02,2025-07-28,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Abşeron,Abşeron-Sumqayıt,1480
+EMP0961,Əli Süleymanov,Kişi,1994-10-23,2025-08-21,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,900
+EMP0962,Elnur Kərimov,Kişi,1993-09-15,2025-08-30,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1390
+EMP0963,Rövşən Əliyev,Kişi,1983-12-25,2025-08-26,,Aktiv,,,Satış,Regional Satış Rəhbəri,Mingəçevir,Digər regionlar,2110
+EMP0964,Samir Mustafayev,Kişi,1997-08-25,2025-08-08,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,950
+EMP0965,Sənan Valiyev,Kişi,1996-08-28,2025-08-21,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,850
+EMP0966,Əfsanə Hüseynova,Qadın,1993-12-26,2025-08-22,2025-09-19,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Operator,Bakı,Bakı,610
+EMP0967,Nərmin Səfərova,Qadın,1992-03-22,2025-08-07,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,1010
+EMP0968,Zaur Cəfərov,Kişi,1996-05-11,2025-08-19,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Lənkəran,Digər regionlar,1070
+EMP0969,Xanım Bayramova,Qadın,1987-10-31,2025-08-13,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,2040
+EMP0970,Murad Qasımov,Kişi,1989-02-14,2025-08-28,2026-06-30,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,QA Mühəndis,Gəncə,Digər regionlar,1850
+EMP0971,Xanım Hacıyeva,Qadın,2002-03-28,2025-08-26,2026-03-02,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,640
+EMP0972,Cavid Valiyev,Kişi,2005-06-12,2025-08-17,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,1000
+EMP0973,Təbriz İsmayılov,Kişi,1992-02-09,2025-08-12,2026-06-16,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,640
+EMP0974,Kənan Əliyev,Kişi,2001-01-02,2025-09-29,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1150
+EMP0975,Sevinc Süleymanova,Qadın,1997-06-06,2025-09-05,,Aktiv,,,İstehsalat,Texnik,Sumqayıt,Abşeron-Sumqayıt,980
+EMP0976,Sənan Bayramov,Kişi,1997-11-23,2025-09-25,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,640
+EMP0977,Nigar Əsgərova,Qadın,1986-10-05,2025-09-12,2026-01-27,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,890
+EMP0978,Məryəm Həsənova,Qadın,1992-10-16,2025-09-28,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1530
+EMP0979,Türkan Nəbiyeva,Qadın,2004-03-30,2025-09-11,2026-07-04,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,820
+EMP0980,Nicat Abbasov,Kişi,2000-10-21,2025-09-29,2026-04-14,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,690
+EMP0981,Sənan Həsənov,Kişi,1995-06-09,2025-09-12,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Mingəçevir,Digər regionlar,710
+EMP0982,Rövşən Əhmədov,Kişi,1994-04-17,2025-09-17,2026-01-08,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Satış,Satış Nümayəndəsi,Mil-Muğan,Digər regionlar,760
+EMP0983,Cavid Əsgərov,Kişi,1998-01-02,2025-09-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,740
+EMP0984,Lalə Qasımova,Qadın,1989-11-23,2025-09-06,,Aktiv,,,İnsan Resursları,Rekruter,Abşeron,Abşeron-Sumqayıt,1100
+EMP0985,Zaur Quliyev,Kişi,1995-07-14,2025-09-03,,Aktiv,,,İstehsalat,Texnik,Mingəçevir,Digər regionlar,1030
+EMP0986,Zaur Məmmədov,Kişi,1994-08-14,2025-09-10,2026-02-08,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Regional Satış Rəhbəri,Gəncə,Digər regionlar,2110
+EMP0987,Aynur Qasımova,Qadın,1998-10-23,2025-09-23,2025-11-25,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Marketinq,SMM Meneceri,Gəncə,Digər regionlar,1450
+EMP0988,Tural Bayramov,Kişi,1994-10-27,2025-09-11,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,750
+EMP0989,Emil Nəbiyev,Kişi,1994-11-02,2025-09-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,800
+EMP0990,Kənan Yusifov,Kişi,2004-09-22,2025-09-01,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Lənkəran,Digər regionlar,720
+EMP0991,Ülviyyə Səfərova,Qadın,1978-11-14,2025-09-03,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1510
+EMP0992,Kənul Hüseynova,Qadın,1989-11-17,2025-09-07,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1130
+EMP0993,Emil Quliyev,Kişi,2002-10-02,2025-09-05,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,800
+EMP0994,Sənan Kərimov,Kişi,1992-03-04,2025-09-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,930
+EMP0995,Sevinc Rzayeva,Qadın,2002-08-14,2025-09-23,,Aktiv,,,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,680
+EMP0996,Aynur Səfərova,Qadın,1993-08-17,2025-09-01,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1150
+EMP0997,Röya Kərimova,Qadın,1996-07-05,2025-09-08,2025-12-27,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Naxçıvan,Digər regionlar,810
+EMP0998,Samir İsmayılov,Kişi,1994-04-22,2025-09-18,2026-02-28,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,QA Mühəndis,Bakı,Bakı,1820
+EMP0999,Aysel Abbasova,Qadın,1987-01-24,2025-09-11,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Abşeron,Abşeron-Sumqayıt,1220
+EMP1000,Elvin Mustafayev,Kişi,1990-09-17,2025-10-16,2025-12-28,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Abşeron,Abşeron-Sumqayıt,700
+EMP1001,Zaur Kərimov,Kişi,1988-12-02,2025-10-21,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,970
+EMP1002,Nübar Əsgərova,Qadın,1992-07-29,2025-10-30,2026-04-03,Ayrılıb,Könüllü,İş yükü və yorğunluq,Marketinq,SMM Meneceri,Bakı,Bakı,1020
+EMP1003,Elvin Məmmədov,Kişi,1996-05-09,2025-10-12,2025-12-10,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,İnsan Resursları,Rekruter,Bakı,Bakı,1080
+EMP1004,Ceyhun Əliyev,Kişi,2000-06-10,2025-10-01,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,960
+EMP1005,Türkan Hüseynova,Qadın,2001-06-10,2025-10-11,2026-03-31,Ayrılıb,Könüllü,Xaricə miqrasiya,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP1006,Orxan Orucov,Kişi,2005-08-01,2025-10-28,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,720
+EMP1007,Sevda Kərimova,Qadın,2002-03-30,2025-10-16,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,990
+EMP1008,Emil Mustafayev,Kişi,2001-09-26,2025-10-31,2026-01-27,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Bakı,Bakı,820
+EMP1009,Əli Səfərov,Kişi,1995-09-04,2025-10-21,2025-11-25,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,840
+EMP1010,Əli Quliyev,Kişi,1998-09-05,2025-10-31,,Aktiv,,,Logistika,Anbardar,Sumqayıt,Abşeron-Sumqayıt,700
+EMP1011,Xanım Mustafayeva,Qadın,1993-05-19,2025-10-29,2026-08-22,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,Satış,Satış Nümayəndəsi,Bakı,Bakı,890
+EMP1012,Təbriz Rzayev,Kişi,1998-06-17,2025-10-31,2026-09-18,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,800
+EMP1013,Zümrüd İsmayılova,Qadın,1994-11-01,2025-10-04,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,930
+EMP1014,Emil Qasımov,Kişi,1993-04-12,2025-10-12,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Sumqayıt,Abşeron-Sumqayıt,850
+EMP1015,Orxan Yusifov,Kişi,1996-10-10,2025-10-08,2025-12-28,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2460
+EMP1016,Nigar Yusifova,Qadın,1994-11-18,2025-10-21,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,630
+EMP1017,Ülviyyə Abbasova,Qadın,2000-01-26,2025-10-31,2025-11-15,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,760
+EMP1018,Leyla Mustafayeva,Qadın,1986-04-13,2025-10-03,,Aktiv,,,İstehsalat,Növbə Rəisi,Lənkəran,Digər regionlar,1910
+EMP1019,Türkan Həsənova,Qadın,1997-10-08,2025-10-21,2026-01-27,Ayrılıb,Qeyri-könüllü,Performans,Müştəri Xidmətləri,Böyük Operator,Şəki,Digər regionlar,840
+EMP1020,Xanım Quliyeva,Qadın,2003-03-31,2025-11-23,2025-12-09,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,IT Dəstək,Abşeron,Abşeron-Sumqayıt,760
+EMP1021,Fidan Mustafayeva,Qadın,1999-09-19,2025-11-15,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,890
+EMP1022,Fidan Əliyeva,Qadın,1994-11-07,2025-11-24,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,840
+EMP1023,Elnur Quliyev,Kişi,1998-11-13,2025-11-10,2026-01-31,Ayrılıb,Qeyri-könüllü,Performans,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,680
+EMP1024,Orxan Bayramov,Kişi,1990-07-02,2025-11-05,2025-12-10,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,İstehsalat,Texnik,Gəncə,Digər regionlar,1170
+EMP1025,Rauf Babayev,Kişi,1997-06-11,2025-11-23,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Mingəçevir,Digər regionlar,670
+EMP1026,Mahir Valiyev,Kişi,2003-09-05,2025-11-13,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Naxçıvan,Digər regionlar,760
+EMP1027,Ceyhun Bayramov,Kişi,1998-04-14,2025-11-08,,Aktiv,,,Logistika,Logistika Koordinatoru,Mingəçevir,Digər regionlar,1250
+EMP1028,Orxan Yusifov,Kişi,1994-10-14,2025-11-30,,Aktiv,,,Satış,Satış Meneceri,Naxçıvan,Digər regionlar,1260
+EMP1029,Cavid Əliyev,Kişi,1986-04-11,2025-11-29,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Quba,Digər regionlar,1510
+EMP1030,Arzu Hüseynova,Qadın,1995-02-16,2025-11-27,,Aktiv,,,Maliyyə,Mühasib,Lənkəran,Digər regionlar,1110
+EMP1031,Rövşən İsmayılov,Kişi,1999-04-07,2025-11-09,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP1032,Gülnar İsmayılova,Qadın,1998-02-28,2025-12-26,,Aktiv,,,Maliyyə,Mühasib,Gəncə,Digər regionlar,1050
+EMP1033,Sevinc Babayeva,Qadın,1994-08-08,2025-12-06,2026-07-30,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1120
+EMP1034,Nigar Məmmədova,Qadın,1998-07-12,2025-12-21,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,660
+EMP1035,Aysel Kərimova,Qadın,1987-03-13,2025-12-06,,Aktiv,,,Maliyyə,Baş Mühasib,Bakı,Bakı,3150
+EMP1036,Rauf Orucov,Kişi,1991-11-22,2025-12-12,,Aktiv,,,Satış,Satış Meneceri,Lənkəran,Digər regionlar,1350
+EMP1037,Tural İsmayılov,Kişi,1991-02-05,2025-12-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Abşeron,Abşeron-Sumqayıt,820
+EMP1038,Sənan Bayramov,Kişi,1993-02-22,2025-12-22,2026-03-16,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,740
+EMP1039,Əfsanə Əhmədova,Qadın,2005-08-28,2025-12-02,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1300
+EMP1040,Əli Əsgərov,Kişi,2003-07-24,2025-12-31,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Gəncə,Digər regionlar,770
+EMP1041,Aynur Süleymanova,Qadın,1991-03-12,2025-12-22,2026-01-14,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Satış Nümayəndəsi,Bakı,Bakı,860
+EMP1042,Arzu Yusifova,Qadın,2001-05-18,2025-12-08,2026-04-11,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,870
+EMP1043,Rauf Orucov,Kişi,1997-12-29,2025-12-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Şirvan,Digər regionlar,730
+EMP1044,Aynur Bayramova,Qadın,2005-09-20,2025-12-15,2026-08-18,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Marketinq,SMM Meneceri,Şəki,Digər regionlar,1180
+EMP1045,Zaur Orucov,Kişi,2001-12-17,2025-12-19,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Gəncə,Digər regionlar,2510
+EMP1046,Ayşən Hüseynova,Qadın,1996-01-07,2025-12-18,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1290
+EMP1047,Anar Əsgərov,Kişi,1992-08-17,2025-12-05,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1030
+EMP1048,Cavid Quliyev,Kişi,2004-08-03,2025-12-21,2026-02-14,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Naxçıvan,Digər regionlar,660
+EMP1049,Tural Əliyev,Kişi,1987-10-04,2025-12-14,2026-04-08,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1320
+EMP1050,Nərmin Hacıyeva,Qadın,2000-06-07,2025-12-09,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,1040
+EMP1051,Fərid Hacıyev,Kişi,1999-08-05,2025-12-11,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1200
+EMP1052,Sənan Valiyev,Kişi,1993-01-08,2025-12-15,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,590
+EMP1053,Kənan Abbasov,Kişi,2000-02-06,2025-12-11,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,650
+EMP1054,Fidan Mustafayeva,Qadın,2003-12-09,2025-12-22,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Mil-Muğan,Digər regionlar,1190
+EMP1055,Röya Babayeva,Qadın,1996-01-26,2025-12-24,,Aktiv,,,Maliyyə,Mühasib,Bakı,Bakı,1000
+EMP1056,Ceyhun Orucov,Kişi,2000-06-21,2025-12-15,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Sumqayıt,Abşeron-Sumqayıt,2390
+EMP1057,Eldar Yusifov,Kişi,1995-07-09,2025-12-24,,Aktiv,,,Logistika,Logistika Koordinatoru,Sumqayıt,Abşeron-Sumqayıt,1170
+EMP1058,Günel Rzayeva,Qadın,1999-06-25,2026-01-24,,Aktiv,,,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,600
+EMP1059,Kənan Bayramov,Kişi,1997-10-08,2026-01-31,,Aktiv,,,Marketinq,SMM Meneceri,Lənkəran,Digər regionlar,1480
+EMP1060,Günel Əliyeva,Qadın,1985-03-06,2026-01-25,,Aktiv,,,Marketinq,Marketinq Meneceri,Naxçıvan,Digər regionlar,1920
+EMP1061,Cavid Yusifov,Kişi,1991-04-01,2026-01-04,,Aktiv,,,Maliyyə,Mühasib,Gəncə,Digər regionlar,1040
+EMP1062,Kənul Valiyeva,Qadın,1993-04-25,2026-01-14,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,580
+EMP1063,Kənan Həsənov,Kişi,2005-02-25,2026-01-19,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Sumqayıt,Abşeron-Sumqayıt,810
+EMP1064,Leyla Əhmədova,Qadın,1988-06-20,2026-01-04,,Aktiv,,,Satış,Regional Satış Rəhbəri,Abşeron,Abşeron-Sumqayıt,2310
+EMP1065,Nicat Əhmədov,Kişi,1991-09-18,2026-01-31,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,760
+EMP1066,Kənul Yusifova,Qadın,1980-06-16,2026-01-02,,Aktiv,,,Maliyyə,Baş Mühasib,Abşeron,Abşeron-Sumqayıt,2300
+EMP1067,Röya Orucova,Qadın,2001-02-17,2026-01-19,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,590
+EMP1068,Əli Süleymanov,Kişi,2002-03-23,2026-01-10,2026-04-21,Ayrılıb,Könüllü,Rəhbərlə münasibət,Satış,Satış Meneceri,Şirvan,Digər regionlar,1170
+EMP1069,Fərid Orucov,Kişi,1996-04-14,2026-01-21,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,660
+EMP1070,Ceyhun Süleymanov,Kişi,1992-02-12,2026-01-14,2026-03-06,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Logistika,Anbardar,Gəncə,Digər regionlar,660
+EMP1071,Xanım Nəbiyeva,Qadın,1997-07-17,2026-01-29,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,750
+EMP1072,Sənan Süleymanov,Kişi,1991-05-09,2026-01-30,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,840
+EMP1073,Məryəm Əhmədova,Qadın,1997-02-25,2026-01-13,,Aktiv,,,Satış,Regional Satış Rəhbəri,Bakı,Bakı,2270
+EMP1074,Samir Süleymanov,Kişi,1998-04-03,2026-01-19,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,660
+EMP1075,Sənan Babayev,Kişi,2005-08-30,2026-01-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,750
+EMP1076,Leyla Süleymanova,Qadın,1997-07-08,2026-01-10,2026-03-31,Ayrılıb,Könüllü,Təhsilə davam,İnsan Resursları,Rekruter,Mingəçevir,Digər regionlar,850
+EMP1077,Fərid Qasımov,Kişi,1995-05-19,2026-01-24,,Aktiv,,,Satış,Satış Nümayəndəsi,Quba,Digər regionlar,760
+EMP1078,Rövşən Valiyev,Kişi,1993-10-03,2026-01-25,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Naxçıvan,Digər regionlar,2530
+EMP1079,Murad Səfərov,Kişi,1987-08-26,2026-01-10,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Lənkəran,Digər regionlar,1800
+EMP1080,Zaur Valiyev,Kişi,1998-10-03,2026-01-31,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,880
+EMP1081,Kənan Səfərov,Kişi,1982-12-09,2026-02-12,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1460
+EMP1082,Aysel Yusifova,Qadın,1991-11-15,2026-02-28,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Bakı,Bakı,1050
+EMP1083,Nicat Nəbiyev,Kişi,1991-07-08,2026-02-08,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,840
+EMP1084,Gülnar Yusifova,Qadın,1992-11-25,2026-02-20,,Aktiv,,,Müştəri Xidmətləri,Operator,Sumqayıt,Abşeron-Sumqayıt,550
+EMP1085,Aysel Səfərova,Qadın,2004-06-06,2026-02-15,2026-06-10,Ayrılıb,Könüllü,Xaricə miqrasiya,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,610
+EMP1086,Anar Həsənov,Kişi,2005-06-12,2026-02-12,,Aktiv,,,Logistika,Logistika Koordinatoru,Bakı,Bakı,1000
+EMP1087,Fərid Əsgərov,Kişi,1990-09-19,2026-02-02,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Quba,Digər regionlar,720
+EMP1088,Zaur İsmayılov,Kişi,2003-03-11,2026-02-26,,Aktiv,,,Logistika,Anbardar,Mingəçevir,Digər regionlar,650
+EMP1089,Əfsanə Abbasova,Qadın,1997-07-14,2026-02-11,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,640
+EMP1090,Samir Mustafayev,Kişi,1997-11-25,2026-02-05,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,810
+EMP1091,Ülviyyə Orucova,Qadın,1994-08-11,2026-02-01,,Aktiv,,,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,670
+EMP1092,Kənul Səfərova,Qadın,1995-03-16,2026-02-14,2026-04-28,Ayrılıb,Könüllü,Daha yüksək maaş təklifi,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,2040
+EMP1093,Murad Valiyev,Kişi,1995-07-13,2026-02-17,2026-05-23,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Nümayəndəsi,Bakı,Bakı,740
+EMP1094,Mahir Həsənov,Kişi,1995-07-01,2026-02-19,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,630
+EMP1095,Sevda Hüseynova,Qadın,2004-03-02,2026-02-08,2026-05-17,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Bakı,Bakı,560
+EMP1096,Sevinc Hacıyeva,Qadın,1990-03-11,2026-02-01,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,1120
+EMP1097,Eldar Məmmədov,Kişi,2000-11-13,2026-03-12,2026-05-26,Ayrılıb,Könüllü,Karyera inkişafı yoxluğu,Müştəri Xidmətləri,Operator,Bakı,Bakı,630
+EMP1098,Sevinc Babayeva,Qadın,1991-11-03,2026-03-05,,Aktiv,,,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,590
+EMP1099,Nigar Abbasova,Qadın,1999-06-25,2026-03-03,,Aktiv,,,Logistika,Anbardar,Şəki,Digər regionlar,780
+EMP1100,Fərid Əliyev,Kişi,1996-09-20,2026-03-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,630
+EMP1101,Röya Bayramova,Qadın,1995-12-26,2026-03-10,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Lənkəran,Digər regionlar,810
+EMP1102,Nicat Abbasov,Kişi,1993-06-03,2026-03-10,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,660
+EMP1103,Gülnar Valiyeva,Qadın,2001-11-27,2026-03-22,2026-05-25,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,Müştəri Xidmətləri,Operator,Bakı,Bakı,570
+EMP1104,Elvin Mustafayev,Kişi,2003-04-01,2026-03-10,,Aktiv,,,Müştəri Xidmətləri,Operator,Şəki,Digər regionlar,640
+EMP1105,Orxan Orucov,Kişi,1997-10-05,2026-03-20,2026-05-10,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Satış,Satış Meneceri,Bakı,Bakı,1300
+EMP1106,Günel İsmayılova,Qadın,1996-04-25,2026-03-16,2026-07-08,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Mingəçevir,Digər regionlar,600
+EMP1107,Orxan Orucov,Kişi,1997-10-12,2026-03-28,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,680
+EMP1108,Kamran Süleymanov,Kişi,1997-09-15,2026-03-25,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,630
+EMP1109,Murad Məmmədov,Kişi,2002-12-01,2026-03-30,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1320
+EMP1110,Fərid Əhmədov,Kişi,2004-11-16,2026-03-08,2026-08-15,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,İstehsalat,Texnik,Sumqayıt,Abşeron-Sumqayıt,870
+EMP1111,Aysel Babayeva,Qadın,1998-06-01,2026-03-17,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Abşeron,Abşeron-Sumqayıt,1100
+EMP1112,Zümrüd Rzayeva,Qadın,1998-05-04,2026-04-25,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Şirvan,Digər regionlar,1290
+EMP1113,Arzu Hacıyeva,Qadın,1998-12-23,2026-04-25,,Aktiv,,,Müştəri Xidmətləri,Operator,Abşeron,Abşeron-Sumqayıt,550
+EMP1114,Murad Kərimov,Kişi,1999-07-12,2026-04-14,2026-09-25,Ayrılıb,Könüllü,Şəxsi / ailə səbəbləri,Müştəri Xidmətləri,Operator,Bakı,Bakı,640
+EMP1115,Leyla Yusifova,Qadın,1998-06-01,2026-04-11,2026-05-02,Ayrılıb,Qeyri-könüllü,Ştat ixtisarı,Müştəri Xidmətləri,Operator,Naxçıvan,Digər regionlar,640
+EMP1116,Rauf Rzayev,Kişi,2006-04-08,2026-04-21,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Abşeron,Abşeron-Sumqayıt,810
+EMP1117,Elvin Səfərov,Kişi,1997-12-30,2026-04-16,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,840
+EMP1118,Fidan Yusifova,Qadın,1991-09-30,2026-04-13,,Aktiv,,,İnsan Resursları,HR Mütəxəssisi,Bakı,Bakı,970
+EMP1119,Türkan Cəfərova,Qadın,1995-06-01,2026-04-24,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,890
+EMP1120,Anar Qasımov,Kişi,1994-10-01,2026-04-25,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Lənkəran,Digər regionlar,1540
+EMP1121,Əfsanə Hacıyeva,Qadın,1995-12-18,2026-04-25,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Şəki,Digər regionlar,1210
+EMP1122,Rəşad Hacıyev,Kişi,1994-04-12,2026-04-17,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2700
+EMP1123,Cavid Kərimov,Kişi,1992-11-15,2026-04-17,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,980
+EMP1124,Əfsanə Qasımova,Qadın,1990-07-06,2026-04-07,,Aktiv,,,Marketinq,Marketinq Meneceri,Naxçıvan,Digər regionlar,2470
+EMP1125,Nübar Məmmədova,Qadın,1988-08-04,2026-04-26,,Aktiv,,,Müştəri Xidmətləri,Operator,Lənkəran,Digər regionlar,540
+EMP1126,Ayşən İsmayılova,Qadın,1991-02-24,2026-05-26,,Aktiv,,,İstehsalat,Növbə Rəisi,Sumqayıt,Abşeron-Sumqayıt,1550
+EMP1127,Xanım Quliyeva,Qadın,1995-04-30,2026-05-09,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,990
+EMP1128,Xanım Hacıyeva,Qadın,2000-05-07,2026-05-14,,Aktiv,,,Müştəri Xidmətləri,Operator,Quba,Digər regionlar,560
+EMP1129,Təbriz Bayramov,Kişi,2001-04-27,2026-05-19,,Aktiv,,,Satış,Satış Nümayəndəsi,Sumqayıt,Abşeron-Sumqayıt,810
+EMP1130,Orxan Qasımov,Kişi,2001-10-13,2026-05-23,2026-09-25,Ayrılıb,Qeyri-könüllü,Performans,Satış,Satış Meneceri,Bakı,Bakı,1140
+EMP1131,Nigar Abbasova,Qadın,1992-10-03,2026-05-13,,Aktiv,,,Logistika,Anbardar,Gəncə,Digər regionlar,580
+EMP1132,Nicat Əhmədov,Kişi,1996-09-16,2026-05-29,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,880
+EMP1133,Kənul Kərimova,Qadın,2001-09-16,2026-05-22,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,830
+EMP1134,Kənan Həsənov,Kişi,1996-09-21,2026-05-16,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Sumqayıt,Abşeron-Sumqayıt,1260
+EMP1135,Cavid Quliyev,Kişi,1999-12-05,2026-05-21,,Aktiv,,,Logistika,Logistika Koordinatoru,Şəki,Digər regionlar,1070
+EMP1136,Rəşad Həsənov,Kişi,1987-04-01,2026-05-08,,Aktiv,,,Hüquq,Compliance Mütəxəssisi,Bakı,Bakı,1520
+EMP1137,Nigar Quliyeva,Qadın,2000-05-11,2026-05-23,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Gəncə,Digər regionlar,1470
+EMP1138,Leyla Mustafayeva,Qadın,1980-10-21,2026-06-07,,Aktiv,,,Müştəri Xidmətləri,Komanda Lideri,Şəki,Digər regionlar,1250
+EMP1139,Elvin Əsgərov,Kişi,1999-05-09,2026-06-20,,Aktiv,,,Satış,Satış Nümayəndəsi,Şəki,Digər regionlar,680
+EMP1140,Fərid Yusifov,Kişi,1998-11-05,2026-06-02,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Bakı,Bakı,770
+EMP1141,Vüqar Abbasov,Kişi,2003-08-28,2026-06-13,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,690
+EMP1142,Tural Səfərov,Kişi,1994-08-26,2026-06-08,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Sumqayıt,Abşeron-Sumqayıt,2490
+EMP1143,Sevinc Quliyeva,Qadın,2005-11-18,2026-06-06,2026-07-28,Ayrılıb,Qeyri-könüllü,İntizam pozuntusu,Müştəri Xidmətləri,Operator,Bakı,Bakı,650
+EMP1144,Zümrüd Quliyeva,Qadın,2000-11-11,2026-06-02,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Sumqayıt,Abşeron-Sumqayıt,960
+EMP1145,Lalə Rzayeva,Qadın,1990-01-25,2026-06-30,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,780
+EMP1146,Nicat Mustafayev,Kişi,2001-02-21,2026-06-06,,Aktiv,,,Satış,Satış Meneceri,Lənkəran,Digər regionlar,1360
+EMP1147,Kənan Cəfərov,Kişi,1992-12-04,2026-06-18,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Sumqayıt,Abşeron-Sumqayıt,1740
+EMP1148,Fərid Hüseynov,Kişi,1997-05-12,2026-06-02,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,950
+EMP1149,Rövşən Orucov,Kişi,1994-01-22,2026-06-27,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,650
+EMP1150,Röya Mustafayeva,Qadın,2003-05-12,2026-06-18,,Aktiv,,,Müştəri Xidmətləri,Operator,Mil-Muğan,Digər regionlar,670
+EMP1151,Rauf Cəfərov,Kişi,1998-01-06,2026-07-05,,Aktiv,,,Satış,Satış Meneceri,Lənkəran,Digər regionlar,1530
+EMP1152,Sevinc Yusifova,Qadın,1998-05-23,2026-07-15,,Aktiv,,,Satış,Satış Nümayəndəsi,Lənkəran,Digər regionlar,620
+EMP1153,Xanım Rzayeva,Qadın,1998-05-18,2026-07-19,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Quba,Digər regionlar,1580
+EMP1154,Ruslan Əhmədov,Kişi,1999-11-22,2026-07-12,,Aktiv,,,Müştəri Xidmətləri,Operator,Bakı,Bakı,670
+EMP1155,Fidan Hüseynova,Qadın,1997-08-15,2026-07-04,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Mingəçevir,Digər regionlar,1390
+EMP1156,Ceyhun Rzayev,Kişi,2004-09-10,2026-07-26,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,670
+EMP1157,Zümrüd Həsənova,Qadın,2004-12-23,2026-07-09,,Aktiv,,,İstehsalat,Texnik,Abşeron,Abşeron-Sumqayıt,1110
+EMP1158,Ceyhun Quliyev,Kişi,2000-10-05,2026-07-23,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Sumqayıt,Abşeron-Sumqayıt,3150
+EMP1159,Ceyhun Hacıyev,Kişi,1995-04-07,2026-07-16,,Aktiv,,,Satış,Satış Meneceri,Bakı,Bakı,1170
+EMP1160,Elvin Nəbiyev,Kişi,1994-06-13,2026-07-12,,Aktiv,,,Satış,Satış Nümayəndəsi,Gəncə,Digər regionlar,760
+EMP1161,Təbriz Əliyev,Kişi,1988-12-01,2026-07-30,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Bakı,Bakı,1600
+EMP1162,Ceyhun Mustafayev,Kişi,1994-10-24,2026-07-12,,Aktiv,,,İnformasiya Texnologiyaları,IT Dəstək,Bakı,Bakı,830
+EMP1163,Eldar Kərimov,Kişi,1998-04-06,2026-07-13,,Aktiv,,,İstehsalat,Texnik,Bakı,Bakı,990
+EMP1164,Rauf Cəfərov,Kişi,2001-09-07,2026-07-06,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Naxçıvan,Digər regionlar,740
+EMP1165,Kamran Yusifov,Kişi,1998-06-17,2026-08-03,,Aktiv,,,Satış,Satış Meneceri,Qarabağ,Digər regionlar,930
+EMP1166,Xanım Həsənova,Qadın,1992-08-09,2026-08-14,,Aktiv,,,Satış,Satış Nümayəndəsi,Mingəçevir,Digər regionlar,880
+EMP1167,Nübar Kərimova,Qadın,2001-09-06,2026-08-25,,Aktiv,,,Satış,Satış Nümayəndəsi,Quba,Digər regionlar,1010
+EMP1168,Aysel Mustafayeva,Qadın,1981-08-16,2026-08-10,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Bakı,Bakı,1640
+EMP1169,Kamran Həsənov,Kişi,1998-07-26,2026-08-30,,Aktiv,,,Satış,Satış Meneceri,Mil-Muğan,Digər regionlar,1430
+EMP1170,Kənul Məmmədova,Qadın,2001-01-10,2026-08-21,,Aktiv,,,Marketinq,SMM Meneceri,Şəki,Digər regionlar,1210
+EMP1171,Gülnar Quliyeva,Qadın,1989-05-08,2026-08-01,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Abşeron,Abşeron-Sumqayıt,1900
+EMP1172,Əfsanə Orucova,Qadın,1997-08-08,2026-08-11,,Aktiv,,,İnformasiya Texnologiyaları,Developer,Bakı,Bakı,2000
+EMP1173,Cavid Valiyev,Kişi,1995-10-16,2026-08-22,2026-09-26,Ayrılıb,Qeyri-könüllü,Sınaq müddətində uyğunsuzluq,Müştəri Xidmətləri,Operator,Bakı,Bakı,710
+EMP1174,Ayşən Səfərova,Qadın,1992-12-25,2026-08-29,2026-09-12,Ayrılıb,Qeyri-könüllü,Müqavilənin bitməsi,İstehsalat,Texnik,Bakı,Bakı,860
+EMP1175,Məryəm Əsgərova,Qadın,1996-03-20,2026-08-11,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,670
+EMP1176,Ülviyyə Cəfərova,Qadın,2003-02-08,2026-08-28,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Bakı,Bakı,680
+EMP1177,Məryəm Həsənova,Qadın,1994-11-26,2026-09-15,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Şirvan,Digər regionlar,830
+EMP1178,Emil Hacıyev,Kişi,2001-06-07,2026-09-23,,Aktiv,,,İnformasiya Texnologiyaları,QA Mühəndis,Bakı,Bakı,1920
+EMP1179,Zümrüd Quliyeva,Qadın,1994-05-12,2026-09-21,,Aktiv,,,İnsan Resursları,Rekruter,Bakı,Bakı,860
+EMP1180,Vüqar Əliyev,Kişi,1988-12-09,2026-09-12,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Sumqayıt,Abşeron-Sumqayıt,1730
+EMP1181,Murad Yusifov,Kişi,2003-12-07,2026-09-21,,Aktiv,,,Marketinq,Marketinq Mütəxəssisi,Şəki,Digər regionlar,1070
+EMP1182,Ülviyyə Yusifova,Qadın,1998-10-30,2026-09-14,,Aktiv,,,İnformasiya Texnologiyaları,Sistem Administratoru,Gəncə,Digər regionlar,1720
+EMP1183,Fidan Quliyeva,Qadın,1999-03-24,2026-09-03,,Aktiv,,,Marketinq,SMM Meneceri,Bakı,Bakı,1380
+EMP1184,Röya Əhmədova,Qadın,1991-01-15,2026-09-12,,Aktiv,,,İstehsalat,İstehsalat Operatoru,Şəki,Digər regionlar,710
+EMP1185,Xanım Həsənova,Qadın,1999-04-03,2026-09-19,,Aktiv,,,Müştəri Xidmətləri,Böyük Operator,Bakı,Bakı,920
+EMP1186,Zaur Məmmədov,Kişi,1999-04-16,2026-09-19,,Aktiv,,,Maliyyə,Maliyyə Analitiki,Sumqayıt,Abşeron-Sumqayıt,1790
+EMP1187,Cavid Həsənov,Kişi,1986-09-07,2026-09-21,,Aktiv,,,İstehsalat,İstehsalat Mühəndisi,Gəncə,Digər regionlar,2090
+EMP1188,Gülnar Orucova,Qadın,1994-08-04,2026-09-21,,Aktiv,,,Satış,Satış Nümayəndəsi,Bakı,Bakı,920
+EMP1189,Orxan Babayev,Kişi,2001-02-17,2026-09-01,,Aktiv,,,Logistika,Anbardar,Bakı,Bakı,590
+EMP1190,Fərid İsmayılov,Kişi,1998-06-11,2026-09-25,,Aktiv,,,Logistika,Sürücü-Ekspeditor,Sumqayıt,Abşeron-Sumqayıt,840
